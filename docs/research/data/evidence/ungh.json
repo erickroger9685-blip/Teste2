@@ -1,0 +1,762 @@
+{
+ "Roblox/studio-rust-mcp-server": {
+  "stars": 493,
+  "pushedAt": "2026-04-03T17:36:12Z",
+  "repo": "Roblox/studio-rust-mcp-server"
+ },
+ "jackTabsCode/asphalt": {
+  "stars": 161,
+  "pushedAt": "2026-07-28T01:14:13Z",
+  "repo": "jackTabsCode/asphalt"
+ },
+ "rojo-rbx/tarmac": {
+  "stars": 35,
+  "pushedAt": "2024-03-05T18:08:01Z",
+  "repo": "rojo-rbx/tarmac"
+ },
+ "blake-mealey/mantle": {
+  "stars": 116,
+  "pushedAt": "2026-05-28T12:53:39Z",
+  "repo": "blake-mealey/mantle"
+ },
+ "evaera/moonwave": {
+  "stars": 246,
+  "pushedAt": "2026-06-02T04:24:46Z",
+  "repo": "evaera/moonwave"
+ },
+ "Roblox/creator-docs": {
+  "stars": 844,
+  "pushedAt": "2026-09-29T10:13:24Z",
+  "repo": "Roblox/creator-docs"
+ },
+ "rojo-rbx/rbx-dom": {
+  "stars": 198,
+  "pushedAt": "2026-07-29T23:10:19Z",
+  "repo": "rojo-rbx/rbx-dom"
+ },
+ "JohnnyMorganz/StyLua": {
+  "stars": 2300,
+  "pushedAt": "2026-09-13T07:29:18Z",
+  "repo": "JohnnyMorganz/StyLua"
+ },
+ "luau-lang/luau": {
+  "stars": 5918,
+  "pushedAt": "2026-09-29T14:59:45Z",
+  "repo": "luau-lang/luau"
+ },
+ "Kampfkarren/selene": {
+  "stars": 824,
+  "pushedAt": "2026-05-21T02:45:42Z",
+  "repo": "Kampfkarren/selene"
+ },
+ "JohnnyMorganz/luau-lsp": {
+  "stars": 542,
+  "pushedAt": "2026-09-29T05:38:58Z",
+  "repo": "JohnnyMorganz/luau-lsp"
+ },
+ "Sleitnick/rbxcloud": {
+  "stars": 140,
+  "pushedAt": "2025-03-23T05:50:49Z",
+  "repo": "Sleitnick/rbxcloud"
+ },
+ "pesde-pkg/pesde": {
+  "stars": 129,
+  "pushedAt": "2026-09-26T12:59:37Z",
+  "repo": "pesde-pkg/pesde"
+ },
+ "UpliftGames/wally": {
+  "stars": 498,
+  "pushedAt": "2026-09-26T21:00:00Z",
+  "repo": "UpliftGames/wally"
+ },
+ "lune-org/lune": {
+  "stars": 955,
+  "pushedAt": "2026-09-29T10:01:51Z",
+  "repo": "lune-org/lune"
+ },
+ "argon-rbx/argon": {
+  "stars": 148,
+  "pushedAt": "2026-07-01T06:07:05Z",
+  "repo": "argon-rbx/argon"
+ },
+ "Iron-Stag-Games/Lync": {
+  "stars": 38,
+  "pushedAt": "2026-09-24T21:43:57Z",
+  "repo": "Iron-Stag-Games/Lync"
+ },
+ "rojo-rbx/rojo": {
+  "stars": 1758,
+  "pushedAt": "2026-07-06T06:15:34Z",
+  "repo": "rojo-rbx/rojo"
+ },
+ "jsdotlua/jest-lua": {
+  "stars": 59,
+  "pushedAt": "2024-12-23T22:04:44Z",
+  "repo": "jsdotlua/jest-lua"
+ },
+ "Roblox/testez": {
+  "stars": 209,
+  "pushedAt": "2024-03-05T21:01:58Z",
+  "repo": "Roblox/testez"
+ },
+ "Roblox/foreman": {
+  "stars": 262,
+  "pushedAt": "2026-05-01T19:24:31Z",
+  "repo": "Roblox/foreman"
+ },
+ "rojo-rbx/rokit": {
+  "stars": 465,
+  "pushedAt": "2026-09-27T21:21:34Z",
+  "repo": "rojo-rbx/rokit"
+ },
+ "seaofvoices/darklua": {
+  "stars": 242,
+  "pushedAt": "2026-07-13T15:41:12Z",
+  "repo": "seaofvoices/darklua"
+ },
+ "roblox-ts/roblox-ts": {
+  "stars": 1308,
+  "pushedAt": "2026-09-29T16:31:19Z",
+  "repo": "roblox-ts/roblox-ts"
+ },
+ "JohnnyMorganz/wally-package-types": {
+  "stars": 122,
+  "pushedAt": "2026-09-26T15:45:47Z",
+  "repo": "JohnnyMorganz/wally-package-types"
+ },
+ "alicesaidhi/conch": {
+  "stars": 122,
+  "pushedAt": "2026-08-15T14:12:55Z",
+  "repo": "alicesaidhi/conch"
+ },
+ "Epix-Incorporated/Adonis": {
+  "stars": 504,
+  "pushedAt": "2026-09-28T12:13:10Z",
+  "repo": "Epix-Incorporated/Adonis"
+ },
+ "evaera/Cmdr": {
+  "stars": 528,
+  "pushedAt": "2026-09-29T13:43:55Z",
+  "repo": "evaera/Cmdr"
+ },
+ "evaera/roblox-lua-promise": {
+  "stars": 352,
+  "pushedAt": "2024-08-06T01:11:01Z",
+  "repo": "evaera/roblox-lua-promise"
+ },
+ "howmanysmall/Janitor": {
+  "stars": 149,
+  "pushedAt": "2026-07-28T21:08:51Z",
+  "repo": "howmanysmall/Janitor"
+ },
+ "centau/ecr": {
+  "stars": 59,
+  "pushedAt": "2026-09-03T12:39:37Z",
+  "repo": "centau/ecr"
+ },
+ "evaera/matter": {
+  "stars": 142,
+  "pushedAt": "2024-07-16T19:11:26Z",
+  "repo": "evaera/matter"
+ },
+ "matter-ecs/matter": {
+  "stars": 116,
+  "pushedAt": "2024-12-31T18:14:36Z",
+  "repo": "matter-ecs/matter"
+ },
+ "PepeElToro41/replecs": {
+  "stars": 62,
+  "pushedAt": "2026-09-29T21:27:38Z",
+  "repo": "PepeElToro41/replecs"
+ },
+ "Ukendio/jecs": {
+  "stars": 471,
+  "pushedAt": "2026-09-17T14:39:23Z",
+  "repo": "Ukendio/jecs"
+ },
+ "YetAnotherClown/planck": {
+  "stars": 57,
+  "pushedAt": "2026-09-24T05:39:26Z",
+  "repo": "YetAnotherClown/planck"
+ },
+ "Quenty/NevermoreEngine": {
+  "stars": 616,
+  "pushedAt": "2026-09-24T18:50:56Z",
+  "repo": "Quenty/NevermoreEngine"
+ },
+ "rbxts-flamework/core": {
+  "stars": 159,
+  "pushedAt": "2025-09-04T01:02:06Z",
+  "repo": "rbxts-flamework/core"
+ },
+ "Sleitnick/AeroGameFramework": {
+  "stars": 224,
+  "pushedAt": "2022-12-29T00:07:54Z",
+  "repo": "Sleitnick/AeroGameFramework"
+ },
+ "Sleitnick/Axis": {
+  "stars": 13,
+  "pushedAt": "2023-12-29T16:51:30Z",
+  "repo": "Sleitnick/Axis"
+ },
+ "Sleitnick/Knit": {
+  "stars": 630,
+  "pushedAt": "2024-07-31T13:18:03Z",
+  "repo": "Sleitnick/Knit"
+ },
+ "welcomestohell/prvdmwrong": {
+  "stars": 36,
+  "pushedAt": "2026-06-10T09:06:59Z",
+  "repo": "welcomestohell/prvdmwrong"
+ },
+ "AlexanderLindholt/SignalPlus": {
+  "stars": 38,
+  "pushedAt": "2026-09-05T11:32:41Z",
+  "repo": "AlexanderLindholt/SignalPlus"
+ },
+ "stravant/goodsignal": {
+  "stars": 71,
+  "pushedAt": "2025-08-28T16:27:06Z",
+  "repo": "stravant/goodsignal"
+ },
+ "littensy/charm": {
+  "stars": 265,
+  "pushedAt": "2026-06-22T01:54:47Z",
+  "repo": "littensy/charm"
+ },
+ "littensy/reflex": {
+  "stars": 108,
+  "pushedAt": "2025-12-21T04:23:42Z",
+  "repo": "littensy/reflex"
+ },
+ "Roblox/rodux": {
+  "stars": 335,
+  "pushedAt": "2026-06-30T18:04:16Z",
+  "repo": "Roblox/rodux"
+ },
+ "MonzterDev/Roblox-Game-Template": {
+  "stars": 16,
+  "pushedAt": "2024-03-26T07:22:38Z",
+  "repo": "MonzterDev/Roblox-Game-Template"
+ },
+ "csqrl/sift": {
+  "stars": 92,
+  "pushedAt": "2026-03-26T02:58:13Z",
+  "repo": "cxmeel/sift"
+ },
+ "Roblox/dash": {
+  "stars": 38,
+  "pushedAt": "2026-09-05T07:12:25Z",
+  "repo": "Roblox/dash"
+ },
+ "Sleitnick/RbxUtil": {
+  "stars": 467,
+  "pushedAt": "2026-08-11T03:03:52Z",
+  "repo": "Sleitnick/RbxUtil"
+ },
+ "chrisc06/TAC-Roblox-Anticheat": {
+  "stars": 3,
+  "pushedAt": "2026-01-10T13:37:19Z",
+  "repo": "chrisc06/TAC-Roblox-Anticheat"
+ },
+ "1Axen/blink": {
+  "stars": 186,
+  "pushedAt": "2026-09-23T04:48:18Z",
+  "repo": "1Axen/blink"
+ },
+ "AstaWasTaken/NetRay": {
+  "stars": 10,
+  "pushedAt": "2026-06-12T22:48:34Z",
+  "repo": "AstaWasTaken/NetRay"
+ },
+ "ffrostfall/BridgeNet2": {
+  "stars": 72,
+  "pushedAt": "2025-05-30T07:12:11Z",
+  "repo": "ffrostfall/BridgeNet2"
+ },
+ "ffrostfall/ByteNet": {
+  "stars": 181,
+  "pushedAt": "2025-08-01T23:38:16Z",
+  "repo": "ffrostfall/ByteNet"
+ },
+ "imezx/Warp": {
+  "stars": 32,
+  "pushedAt": "2026-09-06T05:04:03Z",
+  "repo": "imezx/Warp"
+ },
+ "mrchigurh/Suphi-Packet": {
+  "stars": 4,
+  "pushedAt": "2025-06-15T18:58:17Z",
+  "repo": "mrchigurh/Suphi-Packet"
+ },
+ "red-blox/Red": {
+  "stars": 57,
+  "pushedAt": "2024-02-18T16:51:59Z",
+  "repo": "red-blox/Red"
+ },
+ "red-blox/zap": {
+  "stars": 189,
+  "pushedAt": "2026-06-23T07:46:05Z",
+  "repo": "red-blox/zap"
+ },
+ "roblox-aurora/rbx-net": {
+  "stars": 108,
+  "pushedAt": "2025-01-30T01:14:03Z",
+  "repo": "roblox-aurora/rbx-net"
+ },
+ "osyrisrblx/t": {
+  "stars": 333,
+  "pushedAt": "2025-03-11T17:54:45Z",
+  "repo": "osyrisrblx/t"
+ },
+ "idiomic/Roblox_Sword_Fighting_AI": {
+  "stars": 11,
+  "pushedAt": "2019-12-13T17:45:58Z",
+  "repo": "idiomic/Roblox_Sword_Fighting_AI"
+ },
+ "aziz8235/roblox-luau-game-framework": {
+  "stars": 0,
+  "pushedAt": "2026-09-18T17:16:03Z",
+  "repo": "aziz8235/roblox-luau-game-framework"
+ },
+ "dwmk/RobloxGames": {
+  "stars": 3,
+  "pushedAt": "2024-08-06T15:44:02Z",
+  "repo": "dwmk/RobloxGames"
+ },
+ "elomala/Fighting-game": {
+  "stars": 8,
+  "pushedAt": "2024-01-03T14:22:28Z",
+  "repo": "elomala/Fighting-game"
+ },
+ "galenamc/Roblox-CombatSystem": {
+  "stars": 2,
+  "pushedAt": "2020-06-06T21:07:28Z",
+  "repo": "galenamc/Roblox-CombatSystem"
+ },
+ "JoshuaIO/Fighting-Game-Framework-RobloxAPI": {
+  "stars": 1,
+  "pushedAt": "2025-09-27T21:05:43Z",
+  "repo": "JoshuaIO/Fighting-Game-Framework-RobloxAPI"
+ },
+ "rinme/UntitledGame": {
+  "stars": 0,
+  "pushedAt": "2026-09-15T12:44:52Z",
+  "repo": "rinme/UntitledGame"
+ },
+ "hatmatty/AMS": {
+  "stars": 16,
+  "pushedAt": "2022-06-03T02:31:52Z",
+  "repo": "hatmatty/AMS"
+ },
+ "wad4444/WCS": {
+  "stars": 59,
+  "pushedAt": "2025-11-12T12:39:37Z",
+  "repo": "wad4444/WCS"
+ },
+ "CaidenSteele05/Attachment-Based-Raycast-Hit-Detection": {
+  "stars": 1,
+  "pushedAt": "2026-04-06T21:58:55Z",
+  "repo": "CaidenSteele05/Attachment-Based-Raycast-Hit-Detection"
+ },
+ "CatSushi/MuchachoHitbox": {
+  "stars": 3,
+  "pushedAt": "2026-04-11T04:11:16Z",
+  "repo": "CatSushi/MuchachoHitbox"
+ },
+ "Pyseph/ClientCast": {
+  "stars": 20,
+  "pushedAt": "2023-11-19T18:14:55Z",
+  "repo": "Pyseph/ClientCast"
+ },
+ "RealHyperion/HitMesh-Pro": {
+  "stars": 0,
+  "pushedAt": "2024-11-27T20:01:14Z",
+  "repo": "RealHyperion/HitMesh-Pro"
+ },
+ "Swordphin/raycastHitboxRbxl": {
+  "stars": 70,
+  "pushedAt": "2024-08-03T16:24:46Z",
+  "repo": "Swordphin/raycastHitboxRbxl"
+ },
+ "TeamSwordphin/ShapecastHitbox": {
+  "stars": 22,
+  "pushedAt": "2025-08-12T16:06:19Z",
+  "repo": "TeamSwordphin/ShapecastHitbox"
+ },
+ "michaelvqq/RollbackHitbox": {
+  "stars": 8,
+  "pushedAt": "2026-07-10T03:20:57Z",
+  "repo": "michaelvqq/RollbackHitbox"
+ },
+ "text21/Rewind": {
+  "stars": 0,
+  "pushedAt": "2026-01-09T11:43:03Z",
+  "repo": "text21/Rewind"
+ },
+ "1Axen/Secure-Cast": {
+  "stars": 30,
+  "pushedAt": "2024-10-21T12:36:12Z",
+  "repo": "1Axen/Secure-Cast"
+ },
+ "EtiTheSpirit/FastCastAPIDocs": {
+  "stars": 12,
+  "pushedAt": "2020-09-04T09:53:14Z",
+  "repo": "EtiTheSpirit/FastCastAPIDocs"
+ },
+ "noahrepublic/trojectile": {
+  "stars": 0,
+  "pushedAt": "2024-06-03T00:37:43Z",
+  "repo": "noahrepublic/trojectile"
+ },
+ "synpixel/flashcast": {
+  "stars": 8,
+  "pushedAt": "2024-06-15T08:47:08Z",
+  "repo": "synpixel/flashcast"
+ },
+ "weenachuangkud/FastCast2": {
+  "stars": 28,
+  "pushedAt": "2026-09-29T18:59:06Z",
+  "repo": "weenachuangkud/FastCast2"
+ },
+ "Brawldude2/RagdollService": {
+  "stars": 7,
+  "pushedAt": "2026-07-31T10:14:54Z",
+  "repo": "Brawldude2/RagdollService"
+ },
+ "prooheckcp/RobloxStateMachine": {
+  "stars": 41,
+  "pushedAt": "2024-05-12T15:55:48Z",
+  "repo": "prooheckcp/RobloxStateMachine"
+ },
+ "MaximumADHD/Character-Realism": {
+  "stars": 132,
+  "pushedAt": "2026-06-23T21:04:06Z",
+  "repo": "MaximumADHD/Character-Realism"
+ },
+ "easy-games/chickynoid": {
+  "stars": 264,
+  "pushedAt": "2024-05-27T09:19:59Z",
+  "repo": "easy-games/chickynoid"
+ },
+ "lewuat/Roblox-DashPlace": {
+  "stars": 0,
+  "pushedAt": "2026-04-15T17:37:46Z",
+  "repo": "lewuat/Roblox-DashPlace"
+ },
+ "Ecliptorhizes/Hooksystem": {
+  "stars": 2,
+  "pushedAt": "2026-03-09T09:14:01Z",
+  "repo": "Ecliptorhizes/Hooksystem"
+ },
+ "EgoMoose/gravity-camera": {
+  "stars": 8,
+  "pushedAt": "2025-01-09T13:42:11Z",
+  "repo": "EgoMoose/gravity-camera"
+ },
+ "EgoMoose/Rbx-Gravity-Controller": {
+  "stars": 51,
+  "pushedAt": "2022-09-03T05:07:24Z",
+  "repo": "EgoMoose/Rbx-Gravity-Controller"
+ },
+ "EgoMoose/rbx-wallstick": {
+  "stars": 49,
+  "pushedAt": "2026-06-04T18:20:14Z",
+  "repo": "EgoMoose/rbx-wallstick"
+ },
+ "KendallCole/RobloxGravityKit": {
+  "stars": 3,
+  "pushedAt": "2025-04-08T00:59:50Z",
+  "repo": "KendallCole/RobloxGravityKit"
+ },
+ "shmove/roblox-melee-movement-system": {
+  "stars": 4,
+  "pushedAt": "2023-08-31T14:27:10Z",
+  "repo": "shmove/roblox-melee-movement-system"
+ },
+ "carlos123344222/robloxgame": {
+  "stars": 0,
+  "pushedAt": "2026-09-29T06:31:49Z",
+  "repo": "carlos123344222/robloxgame"
+ },
+ "MaxDevLol/Roblox-Parkour-System-by-max": {
+  "stars": 1,
+  "pushedAt": "2026-02-11T13:01:14Z",
+  "repo": "MaxDevLol/Roblox-Parkour-System-by-max"
+ },
+ "Slubbie/slubbie": {
+  "stars": 0,
+  "pushedAt": "2026-09-29T01:51:10Z",
+  "repo": "Slubbie/slubbie"
+ },
+ "Opxourc/statusify": {
+  "stars": 1,
+  "pushedAt": "2026-09-26T18:22:32Z",
+  "repo": "Opxourc/statusify"
+ },
+ "WBlair1/StatusEffectManager": {
+  "stars": 2,
+  "pushedAt": "2026-02-01T05:00:20Z",
+  "repo": "WBlair1/StatusEffectManager"
+ },
+ "KURVOX/roblox-ai-npc": {
+  "stars": 0,
+  "pushedAt": "2026-09-23T18:08:02Z",
+  "repo": "KURVOX/roblox-ai-npc"
+ },
+ "Defaultio/BehaviorTree3": {
+  "stars": 45,
+  "pushedAt": "2024-02-10T23:07:03Z",
+  "repo": "Defaultio/BehaviorTree3"
+ },
+ "howmanysmall/behaviortree.rbxlua": {
+  "stars": 0,
+  "pushedAt": "2019-08-06T01:35:29Z",
+  "repo": "hms-junk/behaviortree.rbxlua"
+ },
+ "seyaidev/behaviortree.rbxlua": {
+  "stars": 9,
+  "pushedAt": "2019-08-06T01:42:03Z",
+  "repo": "spelled-ayayron/behaviortree.rbxlua"
+ },
+ "grayzcale/simplepath": {
+  "stars": 70,
+  "pushedAt": "2026-06-12T02:06:25Z",
+  "repo": "ahmicy/simplepath"
+ },
+ "imezx/JPSPlus": {
+  "stars": 4,
+  "pushedAt": "2026-02-01T05:26:29Z",
+  "repo": "imezx/JPSPlus"
+ },
+ "kozuidev/PathForge": {
+  "stars": 0,
+  "pushedAt": "2025-08-24T10:24:26Z",
+  "repo": "kozuidev/PathForge"
+ },
+ "prooheckcp/RoQuest": {
+  "stars": 20,
+  "pushedAt": "2025-05-22T14:57:17Z",
+  "repo": "prooheckcp/RoQuest"
+ },
+ "ryanlua/purse": {
+  "stars": 17,
+  "pushedAt": "2026-09-22T03:41:36Z",
+  "repo": "ryanlua/purse"
+ },
+ "ryanlua/satchel": {
+  "stars": 133,
+  "pushedAt": "2026-09-22T12:06:35Z",
+  "repo": "ryanlua/satchel"
+ },
+ "ImAvafe/NeoHotbar": {
+  "stars": 28,
+  "pushedAt": "2026-03-25T21:20:30Z",
+  "repo": "loneka/neohotbar"
+ },
+ "Asiandayboy/InventoryMaker": {
+  "stars": 17,
+  "pushedAt": "2025-12-21T12:54:29Z",
+  "repo": "Asiandayboy/InventoryMaker"
+ },
+ "lab2SecurityProjectsR/inventory-logic-NoGoodUi": {
+  "stars": 0,
+  "pushedAt": "2026-09-29T09:50:36Z",
+  "repo": "lab2SecurityProjectsR/inventory-logic-NoGoodUi"
+ },
+ "Zyn-ic/Stoway": {
+  "stars": 13,
+  "pushedAt": "2026-09-23T19:17:46Z",
+  "repo": "Zyn-ic/Stoway"
+ },
+ "anthony0br/DocumentService": {
+  "stars": 53,
+  "pushedAt": "2026-09-09T03:50:16Z",
+  "repo": "anthony0br/DocumentService"
+ },
+ "Kampfkarren/Roblox": {
+  "stars": 393,
+  "pushedAt": "2023-06-27T20:10:45Z",
+  "repo": "Kampfkarren/Roblox"
+ },
+ "MadStudioRoblox/ProfileService": {
+  "stars": 329,
+  "pushedAt": "2024-10-13T08:50:05Z",
+  "repo": "MadStudioRoblox/ProfileService"
+ },
+ "MadStudioRoblox/ProfileStore": {
+  "stars": 338,
+  "pushedAt": "2025-07-31T10:11:53Z",
+  "repo": "MadStudioRoblox/ProfileStore"
+ },
+ "nezuo/lapis": {
+  "stars": 81,
+  "pushedAt": "2025-02-12T01:15:26Z",
+  "repo": "nezuo/lapis"
+ },
+ "noahrepublic/DataKeep": {
+  "stars": 20,
+  "pushedAt": "2025-09-14T14:40:54Z",
+  "repo": "noahrepublic/DataKeep"
+ },
+ "paradoxum-games/lyra": {
+  "stars": 152,
+  "pushedAt": "2026-03-25T13:46:06Z",
+  "repo": "paradoxum-games/lyra"
+ },
+ "MadStudioRoblox/Replica": {
+  "stars": 75,
+  "pushedAt": "2025-08-07T10:44:56Z",
+  "repo": "MadStudioRoblox/Replica"
+ },
+ "MadStudioRoblox/ReplicaService": {
+  "stars": 68,
+  "pushedAt": "2024-10-16T20:23:06Z",
+  "repo": "MadStudioRoblox/ReplicaService"
+ },
+ "vocksel/Sugar": {
+  "stars": 6,
+  "pushedAt": "2019-09-09T01:25:04Z",
+  "repo": "vocksel/Sugar"
+ },
+ "LugicalDev/CameraService": {
+  "stars": 36,
+  "pushedAt": "2026-06-11T04:55:10Z",
+  "repo": "rduoDevs/CameraService"
+ },
+ "Yiannis123Git/ShiftUnlocked": {
+  "stars": 5,
+  "pushedAt": "2024-10-06T10:48:52Z",
+  "repo": "Yiannis123Git/ShiftUnlocked"
+ },
+ "Sleitnick/RbxCameraShaker": {
+  "stars": 125,
+  "pushedAt": "2023-07-06T19:14:27Z",
+  "repo": "Sleitnick/RbxCameraShaker"
+ },
+ "Fraktality/spr": {
+  "stars": 144,
+  "pushedAt": "2024-07-31T04:04:20Z",
+  "repo": "fraktality/spr"
+ },
+ "evaera/roblox-animation-transfer": {
+  "stars": 53,
+  "pushedAt": "2023-07-14T08:28:39Z",
+  "repo": "evaera/roblox-animation-transfer"
+ },
+ "Khaomi/Animator": {
+  "stars": 11,
+  "pushedAt": "2025-07-02T08:02:53Z",
+  "repo": "Khaomi/Animator"
+ },
+ "michaeldougal/AnimNation": {
+  "stars": 15,
+  "pushedAt": "2026-07-10T19:22:01Z",
+  "repo": "michaeldougal/AnimNation"
+ },
+ "wes-BAN/crux-animation": {
+  "stars": 4,
+  "pushedAt": "2016-06-13T23:00:09Z",
+  "repo": "wes-BAN/crux-animation"
+ },
+ "wrello/Animations": {
+  "stars": 20,
+  "pushedAt": "2026-02-23T04:57:47Z",
+  "repo": "wrello/Animations"
+ },
+ "zilibobi/forge-vfx": {
+  "stars": 18,
+  "pushedAt": "2026-07-26T18:44:31Z",
+  "repo": "zilibobi/forge-vfx"
+ },
+ "Pyseph/ObjectCache": {
+  "stars": 19,
+  "pushedAt": "2025-03-19T12:19:04Z",
+  "repo": "Pyseph/ObjectCache"
+ },
+ "wad4444/refx": {
+  "stars": 16,
+  "pushedAt": "2024-12-23T19:38:57Z",
+  "repo": "wad4444/refx"
+ },
+ "7kayoh/Lydie": {
+  "stars": 29,
+  "pushedAt": "2026-08-13T09:48:26Z",
+  "repo": "7kayoh/Lydie"
+ },
+ "loneka/onyx-ui": {
+  "stars": 59,
+  "pushedAt": "2026-02-09T23:32:40Z",
+  "repo": "loneka/onyx-ui"
+ },
+ "SirMallard/Iris": {
+  "stars": 354,
+  "pushedAt": "2026-09-29T20:06:59Z",
+  "repo": "SirMallard/Iris"
+ },
+ "littensy/ripple": {
+  "stars": 130,
+  "pushedAt": "2026-07-18T10:22:27Z",
+  "repo": "littensy/ripple"
+ },
+ "flipbook-labs/flipbook": {
+  "stars": 125,
+  "pushedAt": "2026-09-27T21:50:49Z",
+  "repo": "flipbook-labs/flipbook"
+ },
+ "Kampfkarren/hoarcekat": {
+  "stars": 148,
+  "pushedAt": "2025-11-22T05:33:01Z",
+  "repo": "Kampfkarren/hoarcekat"
+ },
+ "PepeElToro41/ui-labs": {
+  "stars": 194,
+  "pushedAt": "2026-09-26T07:36:16Z",
+  "repo": "PepeElToro41/ui-labs"
+ },
+ "1ForeverHD/TopbarPlus": {
+  "stars": 236,
+  "pushedAt": "2025-09-17T15:56:25Z",
+  "repo": "1ForeverHD/TopbarPlus"
+ },
+ "centau/vide": {
+  "stars": 337,
+  "pushedAt": "2026-09-28T11:06:43Z",
+  "repo": "centau/vide"
+ },
+ "dphfox/Fusion": {
+  "stars": 798,
+  "pushedAt": "2026-02-02T05:14:06Z",
+  "repo": "dphfox/Fusion"
+ },
+ "ffrostfall/fluid": {
+  "stars": 40,
+  "pushedAt": "2026-09-23T06:57:23Z",
+  "repo": "ffrostfall/fluid"
+ },
+ "jsdotlua/react-lua": {
+  "stars": 570,
+  "pushedAt": "2025-05-23T02:42:51Z",
+  "repo": "jsdotlua/react-lua"
+ },
+ "Roblox/roact": {
+  "stars": 626,
+  "pushedAt": "2023-12-13T00:17:58Z",
+  "repo": "Roblox/roact"
+ },
+ "Gzeu/roblox-procedural-worlds": {
+  "stars": 0,
+  "pushedAt": "2026-04-14T16:26:11Z",
+  "repo": "Gzeu/roblox-procedural-worlds"
+ },
+ "TheArturZh/RTerrainGenerator": {
+  "stars": 8,
+  "pushedAt": "2020-05-13T21:56:51Z",
+  "repo": "TheArturZh/RTerrainGenerator"
+ },
+ "1ForeverHD/ZonePlus": {
+  "stars": 101,
+  "pushedAt": "2024-07-04T04:15:43Z",
+  "repo": "1ForeverHD/ZonePlus"
+ }
+}

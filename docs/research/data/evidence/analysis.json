@@ -1,0 +1,3179 @@
+{
+ "1Axen/Secure-Cast": {
+  "repo": "1Axen/Secure-Cast",
+  "last_commit": "2024-10-21",
+  "first_commit": "2023-08-26",
+  "commits": 57,
+  "contributors": 5,
+  "commits_last_12m": 0,
+  "tags": 7,
+  "latest_tag": "v1.3.0",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2023 Axen Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation f",
+  "lua_files": 16,
+  "luaurc_mode": null,
+  "loc": 2820,
+  "strict": 13,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {
+   "HttpService": [
+    "src/Simulation/init.lua:12",
+    "src/Simulation/init.lua:12",
+    "src/Simulation/init.lua:595"
+   ],
+   "OnServerEvent": [
+    "example/server/init.server.lua:63"
+   ]
+  },
+  "binaries": [
+   "example/shared/Events/Simulate.rbxm",
+   "src/Projectiles/Bullet.rbxm"
+  ],
+  "manifests": [
+   "aftman.toml",
+   "default.project.json",
+   "selene.toml",
+   "stylua.toml",
+   "wally.toml"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [],
+  "ts_files": 0,
+  "wally": {
+   "wally.toml": {
+    "name": "1axen/secure-cast",
+    "version": "1.1.5",
+    "license": "MIT",
+    "deps": []
+   }
+  }
+ },
+ "1Axen/blink": {
+  "repo": "1Axen/blink",
+  "last_commit": "2026-09-19",
+  "first_commit": "2023-12-24",
+  "commits": 489,
+  "contributors": 16,
+  "commits_last_12m": 49,
+  "tags": 91,
+  "latest_tag": "v0.18.9",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2024 Axen Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation f",
+  "lua_files": 52,
+  "luaurc_mode": "strict",
+  "loc": 10517,
+  "strict": 12,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {
+   "HttpService": [
+    "benchmark/src/client/init.client.luau:4",
+    "benchmark/src/client/init.client.luau:4",
+    "benchmark/src/client/init.client.luau:159",
+    "benchmark/src/server/init.server.luau:1",
+    "benchmark/src/server/init.server.luau:1"
+   ],
+   "OnServerEvent": [
+    "benchmark/src/server/init.server.luau:79",
+    "benchmark/src/server/init.server.luau:92",
+    "src/Generator/init.luau:1217",
+    "test/Server.luau:31",
+    "test/Server.luau:41",
+    "test/Server.luau:49"
+   ],
+   "OnServerInvoke": [
+    "benchmark/src/server/init.server.luau:88"
+   ]
+  },
+  "binaries": [
+   "plugin/src/Error.rbxmx",
+   "plugin/src/Widget.rbxmx"
+  ],
+  "manifests": [
+   ".luaurc",
+   "benchmark/default.project.json",
+   "default.project.json",
+   "docs/package.json",
+   "docs/tsconfig.json",
+   "pesde.toml",
+   "plugin/default.project.json",
+   "rokit.toml",
+   "stylua.toml"
+  ],
+  "tests": [
+   "test/Client.luau",
+   "test/Server.luau",
+   "test/Shared.luau",
+   "test/Sources/Generics.blink",
+   "test/Sources/Import.blink"
+  ],
+  "n_tests": 4,
+  "ci": [
+   ".github/workflows/nextjs.yml",
+   ".github/workflows/release.yml"
+  ],
+  "ts_files": 0,
+  "wally": {}
+ },
+ "1ForeverHD/TopbarPlus": {
+  "repo": "1ForeverHD/TopbarPlus",
+  "last_commit": "2025-09-17",
+  "first_commit": "2021-01-02",
+  "commits": 397,
+  "contributors": 30,
+  "commits_last_12m": 0,
+  "tags": 35,
+  "latest_tag": "v3.4.0",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MPL-2.0"
+  ],
+  "license_head": "TopbarPlus Credit ================================== By using TopbarPlus in your experience or application, you agree to either: 1. Keep Attribute unchanged, or",
+  "lua_files": 21,
+  "luaurc_mode": null,
+  "loc": 5521,
+  "strict": 2,
+  "nonstrict": 1,
+  "nocheck": 0,
+  "sec": {
+   "MarketplaceService": [
+    "src/VERSION.lua:23"
+   ]
+  },
+  "binaries": [],
+  "manifests": [
+   "aftman.toml",
+   "default.project.json",
+   "selene.toml",
+   "wally.toml"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [
+   ".github/workflows/BuildRelease.yml"
+  ],
+  "ts_files": 0,
+  "wally": {
+   "wally.toml": {
+    "name": "1foreverhd/topbarplus",
+    "version": "3.4.0",
+    "license": "MPL2",
+    "deps": []
+   }
+  }
+ },
+ "1ForeverHD/ZonePlus": {
+  "repo": "1ForeverHD/ZonePlus",
+  "last_commit": "2024-02-02",
+  "first_commit": "2020-12-31",
+  "commits": 196,
+  "contributors": 9,
+  "commits_last_12m": 0,
+  "tags": 11,
+  "latest_tag": "v3.2.0",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2021 Ben Horton Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documenta",
+  "lua_files": 12,
+  "luaurc_mode": null,
+  "loc": 2479,
+  "strict": 0,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {
+   "HttpService": [
+    "src/Zone/OldSignal.lua:1",
+    "src/Zone/OldSignal.lua:1",
+    "src/Zone/OldSignal.lua:50",
+    "src/Zone/OldSignal.lua:78",
+    "src/Zone/init.lua:7"
+   ]
+  },
+  "binaries": [],
+  "manifests": [
+   "default.project.json",
+   "foreman.toml",
+   "src/default.project.json",
+   "wally.toml"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [
+   ".github/workflows/BuildRelease.yml",
+   ".github/workflows/DeployDocs.yml",
+   ".github/workflows/PublishAssets.yml"
+  ],
+  "ts_files": 0,
+  "wally": {
+   "wally.toml": {
+    "name": "1foreverhd/zoneplus",
+    "version": "3.2.0",
+    "license": "MIT",
+    "deps": []
+   }
+  }
+ },
+ "Asiandayboy/InventoryMaker": {
+  "repo": "Asiandayboy/InventoryMaker",
+  "last_commit": "2025-12-21",
+  "first_commit": "2025-05-28",
+  "commits": 61,
+  "contributors": 1,
+  "commits_last_12m": 9,
+  "tags": 7,
+  "latest_tag": "v1.3.1",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2025 Asiandayboy Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated document",
+  "lua_files": 11,
+  "luaurc_mode": null,
+  "loc": 7309,
+  "strict": 9,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {},
+  "binaries": [],
+  "manifests": [
+   "default.project.json",
+   "rokit.toml",
+   "selene.toml"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [],
+  "ts_files": 0,
+  "wally": {}
+ },
+ "Brawldude2/RagdollService": {
+  "repo": "Brawldude2/RagdollService",
+  "last_commit": "2026-07-31",
+  "first_commit": "2026-01-14",
+  "commits": 27,
+  "contributors": 1,
+  "commits_last_12m": 27,
+  "tags": 7,
+  "latest_tag": "v2.1",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2026 Brawldude2 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documenta",
+  "lua_files": 9,
+  "luaurc_mode": null,
+  "loc": 1033,
+  "strict": 9,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {},
+  "binaries": [],
+  "manifests": [
+   "default.project.json"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [],
+  "ts_files": 0,
+  "wally": {}
+ },
+ "CatSushi/MuchachoHitbox": {
+  "repo": "CatSushi/MuchachoHitbox",
+  "last_commit": "2026-04-11",
+  "first_commit": "2023-05-01",
+  "commits": 8,
+  "contributors": 1,
+  "commits_last_12m": 1,
+  "tags": 2,
+  "latest_tag": "v2.1-experimental",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2025 CatSushi Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentati",
+  "lua_files": 0,
+  "luaurc_mode": null,
+  "loc": 0,
+  "strict": 0,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {},
+  "binaries": [
+   "MuchachoHitbox.rbxm"
+  ],
+  "manifests": [],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [],
+  "ts_files": 0,
+  "wally": {}
+ },
+ "Defaultio/BehaviorTree3": {
+  "repo": "Defaultio/BehaviorTree3",
+  "last_commit": "2023-06-24",
+  "first_commit": "2020-02-05",
+  "commits": 45,
+  "contributors": 5,
+  "commits_last_12m": 0,
+  "tags": 0,
+  "latest_tag": "",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "GPL-3.0"
+  ],
+  "license_head": "GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/> Everyone is permitted to copy and distri",
+  "lua_files": 2,
+  "luaurc_mode": null,
+  "loc": 936,
+  "strict": 0,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {},
+  "binaries": [],
+  "manifests": [],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [],
+  "ts_files": 0,
+  "wally": {}
+ },
+ "EgoMoose/rbx-wallstick": {
+  "repo": "EgoMoose/rbx-wallstick",
+  "last_commit": "2026-06-04",
+  "first_commit": "2025-03-29",
+  "commits": 21,
+  "contributors": 1,
+  "commits_last_12m": 6,
+  "tags": 0,
+  "latest_tag": "",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2025 EgoMoose Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentati",
+  "lua_files": 14,
+  "luaurc_mode": null,
+  "loc": 1671,
+  "strict": 14,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {
+   "OnServerEvent": [
+    "src/client/Wallstick/Replication.luau:51"
+   ],
+   "OnServerInvoke": [
+    "src/client/Wallstick/Replication.luau:64"
+   ]
+  },
+  "binaries": [
+   "demo/playground.rbxl"
+  ],
+  "manifests": [
+   ".luaurc",
+   "default.project.json",
+   "rokit.toml",
+   "selene.toml",
+   "stylua.toml",
+   "wally.toml"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [],
+  "ts_files": 0,
+  "wally": {
+   "wally.toml": {
+    "name": "egomoose/rbx-wallstick",
+    "version": "0.1.0",
+    "license": null,
+    "deps": [
+     "sleitnick/trove@=1.5.0",
+     "sleitnick/typed-remote@0.3.0",
+     "egomoose/raycast-helper@3.0.0",
+     "egomoose/character-sounds@0.2.1",
+     "egomoose/character-animate@0.0.3",
+     "upliftgames/playermodule@700.0.7000935"
+    ]
+   }
+  }
+ },
+ "Fraktality/spr": {
+  "repo": "Fraktality/spr",
+  "last_commit": "2024-07-30",
+  "first_commit": "2019-12-03",
+  "commits": 84,
+  "contributors": 4,
+  "commits_last_12m": 0,
+  "tags": 4,
+  "latest_tag": "v2.1.0",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2023 Fractality Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documenta",
+  "lua_files": 1,
+  "luaurc_mode": null,
+  "loc": 838,
+  "strict": 1,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {},
+  "binaries": [],
+  "manifests": [
+   "default.project.json"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [],
+  "ts_files": 0,
+  "wally": {}
+ },
+ "Gzeu/roblox-procedural-worlds": {
+  "repo": "Gzeu/roblox-procedural-worlds",
+  "last_commit": "2026-04-14",
+  "first_commit": "2026-04-02",
+  "commits": 53,
+  "contributors": 1,
+  "commits_last_12m": 53,
+  "tags": 1,
+  "latest_tag": "v2.0.0",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2026 Gzeu Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation f",
+  "lua_files": 73,
+  "luaurc_mode": null,
+  "loc": 9601,
+  "strict": 19,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {
+   "TeleportService": [
+    "src/TeleportManager.lua:6",
+    "src/TeleportManager.lua:6",
+    "src/TeleportManager.lua:98"
+   ],
+   "MarketplaceService": [
+    "src/DeveloperProductHandler.lua:14",
+    "src/DeveloperProductHandler.lua:14",
+    "src/DeveloperProductHandler.lua:109",
+    "src/DeveloperProductHandler.lua:119",
+    "src/GamepassManager.lua:15",
+    "src/GamepassManager.lua:15",
+    "src/GamepassManager.lua:38",
+    "src/GamepassManager.lua:39",
+    "src/GamepassManager.lua:98",
+    "src/GamepassManager.lua:114"
+   ],
+   "kick": [
+    "src/AntiExploit.lua:49"
+   ],
+   "OnServerEvent": [
+    "src/NPCDialogue.lua:298",
+    "src/PartySystem.lua:213",
+    "src/PartySystem.lua:217",
+    "src/PartySystem.lua:221"
+   ],
+   "OnServerInvoke": [
+    "src/InventoryRemote.lua:27",
+    "src/SeedShare.lua:23"
+   ]
+  },
+  "binaries": [],
+  "manifests": [
+   "default.project.json",
+   "rojo/default.project.json",
+   "selene.toml"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [
+   ".github/workflows/ci.yml",
+   ".github/workflows/rojo-sync.yml"
+  ],
+  "ts_files": 0,
+  "wally": {}
+ },
+ "MadStudioRoblox/ProfileStore": {
+  "repo": "MadStudioRoblox/ProfileStore",
+  "last_commit": "2025-07-31",
+  "first_commit": "2024-10-09",
+  "commits": 32,
+  "contributors": 5,
+  "commits_last_12m": 0,
+  "tags": 0,
+  "latest_tag": "",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "Apache-2.0"
+  ],
+  "license_head": "Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION 1. Definitions. \"License\" ",
+  "lua_files": 2,
+  "luaurc_mode": null,
+  "loc": 3012,
+  "strict": 0,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {
+   "HttpService": [
+    "ProfileStore.luau:318",
+    "ProfileStore.luau:318",
+    "ProfileStore.luau:1431",
+    "ProfileStoreTest.server.luau:34",
+    "ProfileStoreTest.server.luau:34",
+    "ProfileStoreTest.server.luau:149"
+   ]
+  },
+  "binaries": [],
+  "manifests": [
+   "default.project.json",
+   "wally.toml"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [
+   ".github/workflows/ci.yml"
+  ],
+  "ts_files": 0,
+  "wally": {
+   "wally.toml": {
+    "name": "lm-loleris/profilestore",
+    "version": "1.0.3",
+    "license": null,
+    "deps": []
+   }
+  }
+ },
+ "MadStudioRoblox/Replica": {
+  "repo": "MadStudioRoblox/Replica",
+  "last_commit": "2025-08-07",
+  "first_commit": "2024-10-16",
+  "commits": 12,
+  "contributors": 3,
+  "commits_last_12m": 0,
+  "tags": 0,
+  "latest_tag": "",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "Apache-2.0"
+  ],
+  "license_head": "Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION 1. Definitions. \"License\" ",
+  "lua_files": 6,
+  "luaurc_mode": null,
+  "loc": 2643,
+  "strict": 2,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {
+   "OnServerEvent": [
+    "src/ReplicatedStorage/ReplicaShared/Remote.luau:133",
+    "src/ReplicatedStorage/ReplicaShared/Remote.luau:135",
+    "src/ServerScriptService/ReplicaServer.luau:44",
+    "src/ServerScriptService/ReplicaServer.luau:218",
+    "src/ServerScriptService/ReplicaServer.luau:307",
+    "src/ServerScriptService/ReplicaServer.luau:946",
+    "src/ServerScriptService/ReplicaServer.luau:986",
+    "src/ServerScriptService/ReplicaServer.luau:992",
+    "src/ServerScriptService/ReplicaServer.luau:993"
+   ]
+  },
+  "binaries": [],
+  "manifests": [
+   "aftman.toml",
+   "default.project.json"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [
+   ".github/workflows/ci.yml"
+  ],
+  "ts_files": 0,
+  "wally": {}
+ },
+ "MaximumADHD/Character-Realism": {
+  "repo": "MaximumADHD/Character-Realism",
+  "last_commit": "2026-06-23",
+  "first_commit": "2020-11-30",
+  "commits": 26,
+  "contributors": 5,
+  "commits_last_12m": 2,
+  "tags": 6,
+  "latest_tag": "v2022.6.23-patch1",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MPL-2.0"
+  ],
+  "license_head": "Mozilla Public License Version 2.0 ================================== 1. Definitions -------------- 1.1. \"Contributor\" means each individual or legal entity tha",
+  "lua_files": 4,
+  "luaurc_mode": null,
+  "loc": 1046,
+  "strict": 3,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {
+   "OnServerEvent": [
+    "Realism.server.lua:43"
+   ]
+  },
+  "binaries": [
+   "Realism.rbxm"
+  ],
+  "manifests": [
+   "default.project.json"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [],
+  "ts_files": 0,
+  "wally": {}
+ },
+ "Pyseph/ClientCast": {
+  "repo": "Pyseph/ClientCast",
+  "last_commit": "2023-09-25",
+  "first_commit": "2020-11-25",
+  "commits": 93,
+  "contributors": 3,
+  "commits_last_12m": 0,
+  "tags": 4,
+  "latest_tag": "v1.14.0",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2021 Pyseph Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation",
+  "lua_files": 6,
+  "luaurc_mode": null,
+  "loc": 1241,
+  "strict": 0,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {
+   "OnServerEvent": [
+    "lib/init.luau:151",
+    "testing/server/Testing.server.luau:54"
+   ]
+  },
+  "binaries": [],
+  "manifests": [
+   "aftman.toml",
+   "default.project.json",
+   "foreman.toml"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [],
+  "ts_files": 0,
+  "wally": {}
+ },
+ "Pyseph/ObjectCache": {
+  "repo": "Pyseph/ObjectCache",
+  "last_commit": "2025-03-19",
+  "first_commit": "2024-08-05",
+  "commits": 29,
+  "contributors": 4,
+  "commits_last_12m": 0,
+  "tags": 0,
+  "latest_tag": "",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2024 Pyseph Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation",
+  "lua_files": 1,
+  "luaurc_mode": null,
+  "loc": 173,
+  "strict": 1,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {},
+  "binaries": [],
+  "manifests": [
+   "default.project.json",
+   "package.json",
+   "rokit.toml",
+   "selene.toml",
+   "wally.toml"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [],
+  "ts_files": 0,
+  "wally": {
+   "wally.toml": {
+    "name": "pyseph/objectcache",
+    "version": "1.4.6",
+    "license": "MIT",
+    "deps": []
+   }
+  }
+ },
+ "SirMallard/Iris": {
+  "repo": "SirMallard/Iris",
+  "last_commit": "2026-08-10",
+  "first_commit": "2022-09-11",
+  "commits": 522,
+  "contributors": 27,
+  "commits_last_12m": 24,
+  "tags": 10,
+  "latest_tag": "v2.5.1",
+  "license_files": [
+   "LICENSE.txt"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "The MIT License (MIT) Copyright (c) 2024 Michael_48 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated",
+  "lua_files": 31,
+  "luaurc_mode": null,
+  "loc": 14237,
+  "strict": 0,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {
+   "HttpService": [
+    "lib/Internal.lua:558"
+   ]
+  },
+  "binaries": [],
+  "manifests": [
+   "default.project.json",
+   "rokit.toml",
+   "selene.toml",
+   "stylua.toml",
+   "wally.toml"
+  ],
+  "tests": [
+   "tests/State.spec.lua",
+   "tests/Widgets.spec.lua"
+  ],
+  "n_tests": 2,
+  "ci": [
+   ".github/workflows/check.yaml",
+   ".github/workflows/docs.yaml",
+   ".github/workflows/publish.yaml",
+   ".github/workflows/release.yaml"
+  ],
+  "ts_files": 0,
+  "wally": {
+   "wally.toml": {
+    "name": "sirmallard/iris",
+    "version": "2.5.1",
+    "license": "MIT",
+    "deps": []
+   }
+  }
+ },
+ "Sleitnick/RbxCameraShaker": {
+  "repo": "Sleitnick/RbxCameraShaker",
+  "last_commit": "2019-12-15",
+  "first_commit": "2019-09-28",
+  "commits": 9,
+  "contributors": 1,
+  "commits_last_12m": 0,
+  "tags": 0,
+  "latest_tag": "",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2019 Stephen Leitnick Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated doc",
+  "lua_files": 3,
+  "luaurc_mode": null,
+  "loc": 478,
+  "strict": 0,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {},
+  "binaries": [],
+  "manifests": [
+   "default.project.json"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [],
+  "ts_files": 0,
+  "wally": {}
+ },
+ "Sleitnick/RbxUtil": {
+  "repo": "Sleitnick/RbxUtil",
+  "last_commit": "2026-07-27",
+  "first_commit": "2021-10-07",
+  "commits": 534,
+  "contributors": 33,
+  "commits_last_12m": 21,
+  "tags": 0,
+  "latest_tag": "",
+  "license_files": [
+   "LICENSE.md"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "Copyright \u00a9 2025 Stephen Leitnick Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation fil",
+  "lua_files": 69,
+  "luaurc_mode": null,
+  "loc": 16363,
+  "strict": 16,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {
+   "HttpService": [
+    "modules/log/init.luau:128",
+    "modules/log/init.luau:128",
+    "modules/log/init.luau:260",
+    "modules/log/init.luau:267",
+    "modules/table-util/init.luau:22",
+    "modules/table-util/init.luau:22",
+    "modules/table-util/init.luau:893",
+    "modules/table-util/init.luau:893",
+    "modules/table-util/init.luau:896",
+    "modules/table-util/init.luau:905",
+    "modules/table-util/init.luau:905",
+    "modules/table-util/init.luau:908"
+   ],
+   "OnServerEvent": [
+    "modules/comm/Server/RemoteSignal.luau:47",
+    "modules/comm/Server/RemoteSignal.luau:82",
+    "modules/net/init.luau:93",
+    "modules/net/init.luau:114",
+    "modules/typed-remote/init.luau:21",
+    "modules/typed-remote/init.luau:28",
+    "modules/typed-remote/init.luau:38"
+   ],
+   "OnServerInvoke": [
+    "modules/comm/Server/init.luau:62",
+    "modules/comm/Server/init.luau:73",
+    "modules/comm/Server/init.luau:73",
+    "modules/comm/Server/init.luau:75",
+    "modules/comm/Server/init.luau:86",
+    "modules/comm/Server/init.luau:86",
+    "modules/comm/Server/init.luau:88",
+    "modules/comm/Server/init.luau:91",
+    "modules/comm/Server/init.luau:91",
+    "modules/comm/Server/init.luau:93",
+    "modules/net/init.luau:165",
+    "modules/typed-remote/init.luau:49",
+    "modules/typed-remote/init.luau:53"
+   ]
+  },
+  "binaries": [],
+  "manifests": [
+   "default.project.json",
+   "modules/buffer-util/package.json",
+   "modules/buffer-util/wally.toml",
+   "modules/comm/wally.toml",
+   "modules/component/wally.toml",
+   "modules/concur/wally.toml",
+   "modules/enum-list/wally.toml",
+   "modules/find/package.json",
+   "modules/find/wally.toml",
+   "modules/input/wally.toml",
+   "modules/loader/wally.toml",
+   "modules/log/wally.toml",
+   "modules/net/wally.toml",
+   "modules/option/wally.toml",
+   "modules/pid/package.json",
+   "modules/pid/wally.toml",
+   "modules/quaternion/package.json",
+   "modules/quaternion/wally.toml",
+   "modules/query/package.json",
+   "modules/query/wally.toml",
+   "modules/sequent/package.json",
+   "modules/sequent/wally.toml",
+   "modules/ser/wally.toml",
+   "modules/shake/package.json",
+   "modules/shake/wally.toml",
+   "modules/signal/package.json",
+   "modules/signal/wally.toml",
+   "modules/silo/wally.toml",
+   "modules/spring/package.json",
+   "modules/spring/wally.toml",
+   "modules/stream/package.json",
+   "modules/stream/wally.toml",
+   "modules/streamable/wally.toml",
+   "modules/symbol/wally.toml",
+   "modules/table-util/wally.toml",
+   "modules/task-queue/wally.toml",
+   "modules/timer/wally.toml",
+   "modules/tree/wally.toml",
+   "modules/trove/wally.toml",
+   "modules/typed-remote/wally.toml",
+   "modules/wait-for/wally.toml",
+   "package.json",
+   "rokit.toml",
+   "selene.toml",
+   "stylua.toml",
+   "test/wally.toml",
+   "tsconfig.json"
+  ],
+  "tests": [
+   "modules/buffer-util/Buffer.test.luau",
+   "modules/component/init.test.luau",
+   "modules/concur/init.test.luau",
+   "modules/enum-list/init.test.luau",
+   "modules/option/init.test.luau"
+  ],
+  "n_tests": 14,
+  "ci": [
+   ".github/workflows/ci.yaml",
+   ".github/workflows/docs.yaml",
+   ".github/workflows/files.yaml"
+  ],
+  "ts_files": 0,
+  "wally": {
+   "modules/buffer-util/wally.toml": {
+    "name": "sleitnick/buffer-util",
+    "version": "0.3.2",
+    "license": "MIT",
+    "deps": []
+   },
+   "modules/comm/wally.toml": {
+    "name": "sleitnick/comm",
+    "version": "1.0.1",
+    "license": "MIT",
+    "deps": [
+     "sleitnick/signal@2",
+     "sleitnick/option@1",
+     "evaera/promise@4"
+    ]
+   },
+   "modules/component/wally.toml": {
+    "name": "sleitnick/component",
+    "version": "2.4.8",
+    "license": "MIT",
+    "deps": [
+     "sleitnick/signal@^2",
+     "sleitnick/symbol@^2",
+     "sleitnick/trove@^1",
+     "evaera/promise@^4"
+    ]
+   }
+  }
+ },
+ "Swordphin/raycastHitboxRbxl": {
+  "repo": "Swordphin/raycastHitboxRbxl",
+  "last_commit": "2021-09-21",
+  "first_commit": "2020-07-23",
+  "commits": 26,
+  "contributors": 6,
+  "commits_last_12m": 0,
+  "tags": 2,
+  "latest_tag": "v4-candidate.1",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2019 Swordphin123 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documen",
+  "lua_files": 8,
+  "luaurc_mode": null,
+  "loc": 946,
+  "strict": 6,
+  "nonstrict": 0,
+  "nocheck": 1,
+  "sec": {},
+  "binaries": [],
+  "manifests": [
+   "default.project.json"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [],
+  "ts_files": 0,
+  "wally": {}
+ },
+ "TeamSwordphin/ShapecastHitbox": {
+  "repo": "TeamSwordphin/ShapecastHitbox",
+  "last_commit": "2025-08-12",
+  "first_commit": "2024-07-25",
+  "commits": 24,
+  "contributors": 1,
+  "commits_last_12m": 0,
+  "tags": 0,
+  "latest_tag": "",
+  "license_files": [
+   "LICENSE.md"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2024 Team Swordphin Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated docum",
+  "lua_files": 14,
+  "luaurc_mode": null,
+  "loc": 1228,
+  "strict": 10,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {},
+  "binaries": [],
+  "manifests": [
+   "aftman.toml",
+   "default.project.json",
+   "wally.toml"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [],
+  "ts_files": 0,
+  "wally": {
+   "wally.toml": {
+    "name": "teamswordphin/shapecasthitbox",
+    "version": "0.2.9",
+    "license": "MIT",
+    "deps": []
+   }
+  }
+ },
+ "Ukendio/jecs": {
+  "repo": "Ukendio/jecs",
+  "last_commit": "2026-09-17",
+  "first_commit": "2024-04-23",
+  "commits": 860,
+  "contributors": 54,
+  "commits_last_12m": 93,
+  "tags": 63,
+  "latest_tag": "v0.11.0",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2024 jecs authors Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documen",
+  "lua_files": 193,
+  "luaurc_mode": "strict",
+  "loc": 34816,
+  "strict": 14,
+  "nonstrict": 0,
+  "nocheck": 1,
+  "sec": {
+   "OnServerEvent": [
+    "examples/networking/networking_send.luau:105",
+    "examples/networking/remotes.luau:8",
+    "modules/Jabby/modules/net.luau:158"
+   ]
+  },
+  "binaries": [
+   "test.rbxl"
+  ],
+  "manifests": [
+   ".luaurc",
+   "default.project.json",
+   "package.json",
+   "rokit.toml",
+   "test/benches/default.project.json",
+   "test/benches/visual/wally.toml",
+   "tsconfig.json",
+   "wally.toml"
+  ],
+  "tests": [
+   "test/benches/cached.luau",
+   "test/benches/data/image-1.png",
+   "test/benches/data/image-2.png",
+   "test/benches/data/image-3.png",
+   "test/benches/data/image-4.png"
+  ],
+  "n_tests": 13,
+  "ci": [
+   ".github/workflows/analysis.yaml",
+   ".github/workflows/build-studio-docs.yaml",
+   ".github/workflows/release.yaml",
+   ".github/workflows/unit-testing.yaml"
+  ],
+  "ts_files": 0,
+  "wally": {
+   "test/benches/visual/wally.toml": {
+    "name": "private/private",
+    "version": "0.1.0-rc.6",
+    "license": null,
+    "deps": [
+     "matter-ecs/matter@0.8.0",
+     "centau/ecr@0.8.0"
+    ]
+   },
+   "wally.toml": {
+    "name": "ukendio/jecs",
+    "version": "0.11.0",
+    "license": "MIT",
+    "deps": []
+   }
+  }
+ },
+ "YetAnotherClown/planck": {
+  "repo": "YetAnotherClown/planck",
+  "last_commit": "2026-09-24",
+  "first_commit": "2024-11-26",
+  "commits": 110,
+  "contributors": 10,
+  "commits_last_12m": 34,
+  "tags": 6,
+  "latest_tag": "v0.3.0-alpha.1",
+  "license_files": [
+   "LICENSE.md"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2024 YetAnotherClown Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated docu",
+  "lua_files": 35,
+  "luaurc_mode": "strict",
+  "loc": 6257,
+  "strict": 0,
+  "nonstrict": 8,
+  "nocheck": 0,
+  "sec": {},
+  "binaries": [],
+  "manifests": [
+   ".luaurc",
+   "default.project.json",
+   "package.json",
+   "rokit.toml",
+   "selene.toml",
+   "src/planck/default.project.json",
+   "src/planck/package.json",
+   "src/planck/wally.toml",
+   "src/planck_jabby/default.project.json",
+   "src/planck_jabby/package.json",
+   "src/planck_jabby/wally.toml",
+   "src/planck_matter_debugger/default.project.json",
+   "src/planck_matter_debugger/package.json",
+   "src/planck_matter_debugger/wally.toml",
+   "src/planck_matter_hooks/default.project.json",
+   "src/planck_matter_hooks/package.json",
+   "src/planck_matter_hooks/wally.toml",
+   "src/planck_runservice/default.project.json",
+   "src/planck_runservice/package.json",
+   "src/planck_runservice/wally.toml",
+   "stylua.toml",
+   "tsconfig.json",
+   "wally.toml"
+  ],
+  "tests": [
+   "src/jest.config.luau",
+   "src/planck/src/__tests__/InitializerSystems.test.luau",
+   "src/planck/src/__tests__/Scheduler.test.luau",
+   "src/planck/src/__tests__/conditions.test.luau",
+   "src/planck/src/__tests__/hooks.test.luau"
+  ],
+  "n_tests": 6,
+  "ci": [],
+  "ts_files": 0,
+  "wally": {
+   "src/planck/wally.toml": {
+    "name": "yetanotherclown/planck",
+    "version": "0.3.0-rc.2",
+    "license": "MIT",
+    "deps": [
+     "jsdotlua/jest@3.6.1-rc.2",
+     "jsdotlua/jest-globals@3.6.1-rc.2"
+    ]
+   },
+   "src/planck_jabby/wally.toml": {
+    "name": "yetanotherclown/planck-jabby",
+    "version": "0.3.0-rc.2",
+    "license": "MIT",
+    "deps": [
+     "jsdotlua/jest@3.6.1-rc.2",
+     "jsdotlua/jest-globals@3.6.1-rc.2",
+     "yetanotherclown/planck@^0.3.0-rc.2",
+     "alicesaidhi/jabby@0.5.1"
+    ]
+   },
+   "src/planck_matter_debugger/wally.toml": {
+    "name": "yetanotherclown/planck-matter-debugger",
+    "version": "0.3.0-rc.2",
+    "license": "MIT",
+    "deps": [
+     "yetanotherclown/planck@^0.3.0-rc.2"
+    ]
+   }
+  }
+ },
+ "Zyn-ic/Stoway": {
+  "repo": "Zyn-ic/Stoway",
+  "last_commit": "2026-03-07",
+  "first_commit": "2025-05-23",
+  "commits": 73,
+  "contributors": 2,
+  "commits_last_12m": 46,
+  "tags": 6,
+  "latest_tag": "v2.4.1",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2026 Zyn Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation fi",
+  "lua_files": 35,
+  "luaurc_mode": null,
+  "loc": 5858,
+  "strict": 0,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {
+   "HttpService": [
+    "src/server/StowayServerV1_2/Utils/UUID.luau:6",
+    "src/server/StowayServerV1_2/Utils/UUID.luau:6",
+    "src/server/StowayServerV1_2/Utils/UUID.luau:9"
+   ],
+   "OnServerEvent": [
+    "src/server/StowayServerV1_2/init.luau:489"
+   ],
+   "OnServerInvoke": [
+    "src/server/StowayServerV1_2/Replication/Replicator.luau:84",
+    "src/server/StowayServerV1_2/init.luau:462"
+   ]
+  },
+  "binaries": [],
+  "manifests": [
+   "aftman.toml",
+   "default.project.json",
+   "rokit.toml",
+   "selene.toml",
+   "wally.toml"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [],
+  "ts_files": 0,
+  "wally": {
+   "wally.toml": {
+    "name": "rosal/stoway",
+    "version": "2.4.1",
+    "license": null,
+    "deps": [
+     "howmanysmall/janitor@1.18.3",
+     "acecateer/fusion@0.3.1"
+    ]
+   }
+  }
+ },
+ "anthony0br/DocumentService": {
+  "repo": "anthony0br/DocumentService",
+  "last_commit": "2026-09-07",
+  "first_commit": "2024-07-20",
+  "commits": 389,
+  "contributors": 13,
+  "commits_last_12m": 23,
+  "tags": 21,
+  "latest_tag": "v2.0.0-beta.1",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2024 Anthony O'Brien Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated docu",
+  "lua_files": 28,
+  "luaurc_mode": null,
+  "loc": 7355,
+  "strict": 16,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {},
+  "binaries": [],
+  "manifests": [
+   "default.project.json",
+   "rokit.toml",
+   "selene.toml",
+   "wally.toml"
+  ],
+  "tests": [
+   "tests/lune/Guard.luau",
+   "tests/lune/MockTests.server.luau",
+   "tests/lune/mock-datastore/Budget.lua",
+   "tests/lune/mock-datastore/Constants.lua",
+   "tests/lune/mock-datastore/DataStore.lua"
+  ],
+  "n_tests": 10,
+  "ci": [
+   ".github/workflows/build.yml",
+   ".github/workflows/release.yml"
+  ],
+  "ts_files": 0,
+  "wally": {
+   "wally.toml": {
+    "name": "anthony0br/documentservice",
+    "version": "1.2.2",
+    "license": "MIT",
+    "deps": []
+   }
+  }
+ },
+ "centau/vide": {
+  "repo": "centau/vide",
+  "last_commit": "2026-09-28",
+  "first_commit": "2023-08-08",
+  "commits": 207,
+  "contributors": 25,
+  "commits_last_12m": 22,
+  "tags": 7,
+  "latest_tag": "0.4.1",
+  "license_files": [
+   "LICENSE.md"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2022 centau Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation",
+  "lua_files": 35,
+  "luaurc_mode": "strict",
+  "loc": 6845,
+  "strict": 0,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {},
+  "binaries": [],
+  "manifests": [
+   ".luaurc",
+   "default.project.json",
+   "docs/package.json",
+   "pesde.toml",
+   "rokit.toml",
+   "wally.toml"
+  ],
+  "tests": [
+   "test/benchmarks.luau",
+   "test/create-type-test.luau",
+   "test/mock.luau",
+   "test/spring-test.luau",
+   "test/stacktrace-test.luau"
+  ],
+  "n_tests": 7,
+  "ci": [
+   ".github/workflows/build.yml",
+   ".github/workflows/deploy.yml",
+   ".github/workflows/unit-test.yml",
+   ".github/workflows/wallypesde.yml"
+  ],
+  "ts_files": 1,
+  "wally": {
+   "wally.toml": {
+    "name": "centau/vide",
+    "version": "0.4.1",
+    "license": "MIT",
+    "deps": []
+   }
+  }
+ },
+ "dphfox/Fusion": {
+  "repo": "dphfox/Fusion",
+  "last_commit": "2026-02-01",
+  "first_commit": "2021-06-20",
+  "commits": 933,
+  "contributors": 53,
+  "commits_last_12m": 5,
+  "tags": 3,
+  "latest_tag": "v0.3-beta",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2024 Daniel P H Fox Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated docum",
+  "lua_files": 114,
+  "luaurc_mode": "strict",
+  "loc": 12112,
+  "strict": 98,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {
+   "getfenv_setfenv": [
+    "test/Spec/Animation/springCoefficients.spec.luau:11",
+    "test/Spec/Animation/springCoefficients.spec.luau:14",
+    "test/Spec/Animation/springCoefficients.spec.luau:25",
+    "test/Spec/Animation/springCoefficients.spec.luau:43",
+    "test/Spec/Animation/springCoefficients.spec.luau:54",
+    "test/Spec/Animation/springCoefficients.spec.luau:65",
+    "test/Spec/Graph/Observer.spec.luau:15",
+    "test/Spec/Graph/Observer.spec.luau:18",
+    "test/Spec/Graph/Observer.spec.luau:32",
+    "test/Spec/Graph/Observer.spec.luau:43",
+    "test/Spec/Graph/Observer.spec.luau:61",
+    "test/Spec/Graph/Observer.spec.luau:85",
+    "test/Spec/Graph/Observer.spec.luau:102",
+    "test/Spec/Graph/Observer.spec.luau:121",
+    "test/Spec/Graph/Observer.spec.luau:143",
+    "test/Spec/Graph/Observer.spec.luau:157",
+    "test/Spec/Graph/Observer.spec.luau:173",
+    "test/Spec/Graph/Observer.spec.luau:195",
+    "test/Spec/Graph/change.spec.luau:15",
+    "test/Spec/Graph/evaluate.spec.luau:13",
+    "test/Spec/Instances/Attribute.spec.luau:14",
+    "test/Spec/Instances/Attribute.spec.luau:17",
+    "test/Spec/Instances/Attribute.spec.luau:28",
+    "test/Spec/Instances/Attribute.spec.luau:39",
+    "test/Spec/Instances/AttributeChange.spec.luau:14",
+    "test/Spec/Instances/AttributeChange.spec.luau:15",
+    "test/Spec/Instances/AttributeChange.spec.luau:21",
+    "test/Spec/Instances/AttributeChange.spec.luau:41",
+    "test/Spec/Instances/AttributeChange.spec.luau:59",
+    "test/Spec/Instances/AttributeOut.spec.luau:16",
+    "test/Spec/Instances/AttributeOut.spec.luau:17",
+    "test/Spec/Instances/AttributeOut.spec.luau:23",
+    "test/Spec/Instances/AttributeOut.spec.luau:41",
+    "test/Spec/Instances/AttributeOut.spec.luau:60",
+    "test/Spec/Instances/Children.spec.luau:14",
+    "test/Spec/Instances/Children.spec.luau:17",
+    "test/Spec/Instances/Children.spec.luau:33",
+    "test/Spec/Instances/Children.spec.luau:59",
+    "test/Spec/Instances/Children.spec.luau:89",
+    "test/Spec/Instances/Children.spec.luau:119",
+    "test/Spec/Instances/Children.spec.luau:143",
+    "test/Spec/Instances/Children.spec.luau:174",
+    "test/Spec/Instances/Hydrate.spec.luau:12",
+    "test/Spec/Instances/Hydrate.spec.luau:15",
+    "test/Spec/Instances/Hydrate.spec.luau:24",
+    "test/Spec/Instances/New.spec.luau:13",
+    "test/Spec/Instances/New.spec.luau:16",
+    "test/Spec/Instances/New.spec.luau:25",
+    "test/Spec/Instances/New.spec.luau:35",
+    "test/Spec/Instances/New.spec.luau:48",
+    "test/Spec/Instances/OnChange.spec.luau:13",
+    "test/Spec/Instances/OnChange.spec.luau:14",
+    "test/Spec/Instances/OnChange.spec.luau:20",
+    "test/Spec/Instances/OnChange.spec.luau:41",
+    "test/Spec/Instances/OnChange.spec.luau:59",
+    "test/Spec/Instances/OnChange.spec.luau:76",
+    "test/Spec/Instances/OnEvent.spec.luau:14",
+    "test/Spec/Instances/OnEvent.spec.luau:15",
+    "test/Spec/Instances/OnEvent.spec.luau:21",
+    "test/Spec/Instances/OnEvent.spec.luau:41",
+    "test/Spec/Instances/OnEvent.spec.luau:55",
+    "test/Spec/Instances/OnEvent.spec.luau:72",
+    "test/Spec/Instances/Out.spec.luau:15",
+    "test/Spec/Instances/Out.spec.luau:16",
+    "test/Spec/Instances/Out.spec.luau:22",
+    "test/Spec/Instances/Out.spec.luau:41",
+    "test/Spec/Instances/Out.spec.luau:62",
+    "test/Spec/Instances/Tag.spec.luau:14",
+    "test/Spec/Instances/Tag.spec.luau:17",
+    "test/Spec/Instances/Tag.spec.luau:28",
+    "test/Spec/Instances/Tag.spec.luau:39",
+    "test/Spec/Instances/applyInstanceProps.spec.luau:13",
+    "test/Spec/Instances/applyInstanceProps.spec.luau:16",
+    "test/Spec/Instances/applyInstanceProps.spec.luau:31",
+    "test/Spec/Instances/applyInstanceProps.spec.luau:50",
+    "test/Spec/Instances/applyInstanceProps.spec.luau:67",
+    "test/Spec/Instances/applyInstanceProps.spec.luau:94",
+    "test/Spec/Instances/applyInstanceProps.spec.luau:110",
+    "test/Spec/Instances/applyInstanceProps.spec.luau:127",
+    "test/Spec/Instances/applyInstanceProps.spec.luau:143",
+    "test/Spec/Instances/applyInstanceProps.spec.luau:160",
+    "test/Spec/Instances/applyInstanceProps.spec.luau:176",
+    "test/Spec/Instances/applyInstanceProps.spec.luau:193",
+    "test/Spec/Memory/deriveScope.spec.luau:13",
+    "test/Spec/Memory/deriveScope.spec.luau:16",
+    "test/Spec/Memory/deriveScope.spec.luau:30",
+    "test/Spec/Memory/deriveScope.spec.luau:46",
+    "test/Spec/Memory/deriveScope.spec.luau:66",
+    "test/Spec/Memory/deriveScope.spec.luau:90",
+    "test/Spec/Memory/deriveScope.spec.luau:103",
+    "test/Spec/Memory/deriveScope.spec.luau:114",
+    "test/Spec/Memory/doCleanup.spec.luau:12",
+    "test/Spec/Memory/doCleanup.spec.luau:15",
+    "test/Spec/Memory/doCleanup.spec.luau:27",
+    "test/Spec/Memory/doCleanup.spec.luau:38",
+    "test/Spec/Memory/doCleanup.spec.luau:50",
+    "test/Spec/Memory/doCleanup.spec.luau:64",
+    "test/Spec/Memory/doCleanup.spec.luau:78",
+    "test/Spec/Memory/doCleanup.spec.luau:92",
+    "test/Spec/Memory/doCleanup.spec.luau:106",
+    "test/Spec/Memory/doCleanup.spec.luau:125",
+    "test/Spec/Memory/doCleanup.spec.luau:139",
+    "test/Spec/Memory/doCleanup.spec.luau:165",
+    "test/Spec/Memory/innerScope.spec.luau:13",
+    "test/Spec/Memory/innerScope.spec.luau:16",
+    "test/Spec/Memory/innerScope.spec.luau:30",
+    "test/Spec/Memory/innerScope.spec.luau:46",
+    "test/Spec/Memory/innerScope.spec.luau:66",
+    "test/Spec/Memory/innerScope.spec.luau:90",
+    "test/Spec/Memory/innerScope.spec.luau:103",
+    "test/Spec/Memory/innerScope.spec.luau:114",
+    "test/Spec/Memory/insert.spec.luau:12",
+    "test/Spec/Memory/insert.spec.luau:15",
+    "test/Spec/Memory/insert.spec.luau:24",
+    "test/Spec/Memory/insert.spec.luau:39",
+    "test/Spec/Memory/insert.spec.luau:62",
+    "test/Spec/Memory/scoped.spec.luau:11",
+    "test/Spec/Memory/scoped.spec.luau:14",
+    "test/Spec/Memory/scoped.spec.luau:23",
+    "test/Spec/Memory/scoped.spec.luau:36",
+    "test/Spec/Memory/scoped.spec.luau:58",
+    "test/Spec/Memory/scoped.spec.luau:81",
+    "test/Spec/State/Computed.spec.luau:14",
+    "test/Spec/State/Computed.spec.luau:17",
+    "test/Spec/State/Computed.spec.luau:33",
+    "test/Spec/State/Computed.spec.luau:45",
+    "test/Spec/State/Computed.spec.luau:56",
+    "test/Spec/State/Computed.spec.luau:70",
+    "test/Spec/State/Computed.spec.luau:87",
+    "test/Spec/State/Computed.spec.luau:103",
+    "test/Spec/State/Computed.spec.luau:129",
+    "test/Spec/State/Computed.spec.luau:160",
+    "test/Spec/State/ForKeys.spec.luau:14",
+    "test/Spec/State/ForKeys.spec.luau:17",
+    "test/Spec/State/ForKeys.spec.luau:33",
+    "test/Spec/State/ForKeys.spec.luau:45",
+    "test/Spec/State/ForKeys.spec.luau:59",
+    "test/Spec/State/ForKeys.spec.luau:78",
+    "test/Spec/State/ForKeys.spec.luau:91",
+    "test/Spec/State/ForKeys.spec.luau:110",
+    "test/Spec/State/ForKeys.spec.luau:156",
+    "test/Spec/State/ForKeys.spec.luau:187",
+    "test/Spec/State/ForKeys.spec.luau:208",
+    "test/Spec/State/ForKeys.spec.luau:231",
+    "test/Spec/State/ForKeys.spec.luau:251",
+    "test/Spec/State/ForPairs.spec.luau:14",
+    "test/Spec/State/ForPairs.spec.luau:17",
+    "test/Spec/State/ForPairs.spec.luau:33",
+    "test/Spec/State/ForPairs.spec.luau:45",
+    "test/Spec/State/ForPairs.spec.luau:59",
+    "test/Spec/State/ForPairs.spec.luau:78",
+    "test/Spec/State/ForPairs.spec.luau:91",
+    "test/Spec/State/ForPairs.spec.luau:110",
+    "test/Spec/State/ForPairs.spec.luau:157",
+    "test/Spec/State/ForPairs.spec.luau:188",
+    "test/Spec/State/ForPairs.spec.luau:211",
+    "test/Spec/State/ForPairs.spec.luau:234",
+    "test/Spec/State/ForValues.spec.luau:14",
+    "test/Spec/State/ForValues.spec.luau:17",
+    "test/Spec/State/ForValues.spec.luau:33",
+    "test/Spec/State/ForValues.spec.luau:45",
+    "test/Spec/State/ForValues.spec.luau:59",
+    "test/Spec/State/ForValues.spec.luau:78",
+    "test/Spec/State/ForValues.spec.luau:91",
+    "test/Spec/State/ForValues.spec.luau:108",
+    "test/Spec/State/ForValues.spec.luau:154",
+    "test/Spec/State/ForValues.spec.luau:185",
+    "test/Spec/State/ForValues.spec.luau:208",
+    "test/Spec/State/ForValues.spec.luau:231",
+    "test/Spec/State/ForValues.spec.luau:251",
+    "test/Spec/State/ForValues.spec.luau:278",
+    "test/Spec/State/ForValues.spec.luau:299",
+    "test/Spec/State/Value.spec.luau:13",
+    "test/Spec/State/Value.spec.luau:16",
+    "test/Spec/State/Value.spec.luau:30",
+    "test/Spec/State/Value.spec.luau:39",
+    "test/Spec/State/Value.spec.luau:48",
+    "test/Spec/State/Value.spec.luau:64",
+    "test/Spec/State/Value.spec.luau:85",
+    "test/Spec/State/Value.spec.luau:104",
+    "test/Spec/Utility/Contextual.spec.luau:11",
+    "test/Spec/Utility/Contextual.spec.luau:14",
+    "test/Spec/Utility/Contextual.spec.luau:23",
+    "test/Spec/Utility/Contextual.spec.luau:31",
+    "test/Spec/Utility/Contextual.spec.luau:53",
+    "test/Spec/Utility/Contextual.spec.luau:69",
+    "test/Spec/Utility/Safe.spec.luau:11",
+    "test/Spec/Utility/Safe.spec.luau:14",
+    "test/Spec/Utility/Safe.spec.luau:29",
+    "test/Spec/Utility/Safe.spec.luau:45",
+    "test/Spec/Utility/isSimilar.spec.luau:12",
+    "test/Spec/Utility/isSimilar.spec.luau:15",
+    "test/Spec/Utility/isSimilar.spec.luau:23",
+    "test/Spec/Utility/isSimilar.spec.luau:32",
+    "test/Spec/Utility/isSimilar.spec.luau:42",
+    "test/Spec/Utility/isSimilar.spec.luau:54",
+    "test/Spec/Utility/isSimilar.spec.luau:66",
+    "test/Spec/Utility/isSimilar.spec.luau:95",
+    "test/Spec/Utility/isSimilar.spec.luau:128",
+    "test/Spec/Utility/isSimilar.spec.luau:164",
+    "test/Spec/Utility/isSimilar.spec.luau:204",
+    "test/Spec/Utility/isSimilar.spec.luau:237",
+    "test/Spec/Utility/isSimilar.spec.luau:259",
+    "test/Spec/_Integration/DynamicGraphs.spec.lua:11",
+    "test/Spec/_Integration/DynamicGraphs.spec.lua:14",
+    "test/Spec/_Integration/DynamicGraphs.spec.lua:17",
+    "test/TestEZ/TestPlan.luau:192",
+    "test/TestEZ/TestPlan.luau:200",
+    "test/TestEZ/TestRunner.luau:65",
+    "test/Util/Graphs.luau:581"
+   ],
+   "HttpService": [
+    "src/RobloxExternal.luau:10",
+    "src/RobloxExternal.luau:10",
+    "src/RobloxExternal.luau:71"
+   ]
+  },
+  "binaries": [],
+  "manifests": [
+   ".luaurc",
+   "aftman.toml",
+   "default.project.json",
+   "package.json",
+   "selene.toml",
+   "wally.toml"
+  ],
+  "tests": [
+   "test/Spec/Animation/springCoefficients.spec.luau",
+   "test/Spec/Graph/Observer.spec.luau",
+   "test/Spec/Graph/change.spec.luau",
+   "test/Spec/Graph/evaluate.spec.luau",
+   "test/Spec/Instances/Attribute.spec.luau"
+  ],
+  "n_tests": 49,
+  "ci": [
+   ".github/workflows/ci.yml",
+   ".github/workflows/mkdocs-deploy.yml"
+  ],
+  "ts_files": 0,
+  "wally": {
+   "wally.toml": {
+    "name": "elttob/fusion",
+    "version": "0.4.0-dev1",
+    "license": "MIT",
+    "deps": []
+   }
+  }
+ },
+ "easy-games/chickynoid": {
+  "repo": "easy-games/chickynoid",
+  "last_commit": "2024-01-03",
+  "first_commit": "2022-01-15",
+  "commits": 399,
+  "contributors": 17,
+  "commits_last_12m": 0,
+  "tags": 0,
+  "latest_tag": "",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2021 MrChickenRocket Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated docu",
+  "lua_files": 51,
+  "luaurc_mode": null,
+  "loc": 11163,
+  "strict": 0,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {
+   "kick": [
+    "src/ServerScriptService/Packages/Chickynoid/Server/ServerModule.lua:221"
+   ],
+   "OnServerEvent": [
+    "src/ServerScriptService/Packages/Chickynoid/Server/ServerModule.lua:115",
+    "src/ServerScriptService/Packages/Chickynoid/Server/ServerModule.lua:125"
+   ]
+  },
+  "binaries": [
+   "example/chickynoid.rbxl",
+   "example/gui/Ammo.rbxm",
+   "example/lighting/Bloom.rbxm",
+   "example/lighting/DepthOfField.rbxm",
+   "example/lighting/Sky.rbxm",
+   "example/lighting/SunRays.rbxm",
+   "example/workspace/GameArea.rbxm",
+   "example/workspace/SpawnLocation.rbxm",
+   "example/workspace/Terrain.rbxm",
+   "src/ReplicatedFirst/Packages/Chickynoid/Assets/Effects.rbxm",
+   "src/ReplicatedFirst/Packages/Chickynoid/Assets/R15Rig.rbxm",
+   "src/ReplicatedFirst/Packages/Chickynoid/Client/FpsGraphUI.rbxm",
+   "src/ReplicatedFirst/Packages/Chickynoid/Client/NetGraphUI.rbxm",
+   "src/StarterGui/Ammo.rbxm"
+  ],
+  "manifests": [
+   "default.project.json",
+   "foreman.toml",
+   "package.json",
+   "selene.toml",
+   "stylua.toml",
+   "tsconfig.json",
+   "wally.toml"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [],
+  "ts_files": 0,
+  "wally": {
+   "wally.toml": {
+    "name": "easy-games/chickynoid",
+    "version": "0.1.4",
+    "license": "MIT",
+    "deps": []
+   }
+  }
+ },
+ "evaera/Cmdr": {
+  "repo": "evaera/Cmdr",
+  "last_commit": "2026-09-29",
+  "first_commit": "2018-05-15",
+  "commits": 666,
+  "contributors": 63,
+  "commits_last_12m": 91,
+  "tags": 28,
+  "latest_tag": "v1.13.0",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2018 Eryn L. K. Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documenta",
+  "lua_files": 86,
+  "luaurc_mode": null,
+  "loc": 7258,
+  "strict": 0,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {
+   "HttpService": [
+    "Cmdr/BuiltInCommands/Debug/fetchServer.luau:1",
+    "Cmdr/BuiltInCommands/Debug/fetchServer.luau:1",
+    "Cmdr/BuiltInCommands/Debug/fetchServer.luau:4",
+    "Cmdr/BuiltInCommands/Debug/fetchServer.luau:4",
+    "Cmdr/BuiltInCommands/Utility/jsonArrayEncode.luau:1",
+    "Cmdr/BuiltInCommands/Utility/jsonArrayEncode.luau:1",
+    "Cmdr/BuiltInCommands/Utility/jsonArrayEncode.luau:16",
+    "Cmdr/BuiltInTypes/JSON.luau:1",
+    "Cmdr/BuiltInTypes/JSON.luau:1",
+    "Cmdr/BuiltInTypes/JSON.luau:6",
+    "Cmdr/BuiltInTypes/JSON.luau:6",
+    "Cmdr/BuiltInTypes/JSON.luau:10"
+   ],
+   "http_post": [
+    "Cmdr/BuiltInCommands/Debug/fetchServer.luau:4"
+   ],
+   "TeleportService": [
+    "Cmdr/BuiltInCommands/Admin/gotoPlaceServer.luau:1",
+    "Cmdr/BuiltInCommands/Admin/gotoPlaceServer.luau:1",
+    "Cmdr/BuiltInCommands/Admin/gotoPlaceServer.luau:10",
+    "Cmdr/BuiltInCommands/Admin/gotoPlaceServer.luau:12",
+    "Cmdr/BuiltInCommands/Debug/getPlayerPlaceInstanceServer.luau:1",
+    "Cmdr/BuiltInCommands/Debug/getPlayerPlaceInstanceServer.luau:1",
+    "Cmdr/BuiltInCommands/Debug/getPlayerPlaceInstanceServer.luau:7",
+    "Cmdr/BuiltInCommands/Debug/getPlayerPlaceInstanceServer.luau:7",
+    "Cmdr/CmdrClient/Shared/Dispatcher.luau:3",
+    "Cmdr/CmdrClient/Shared/Dispatcher.luau:3",
+    "Cmdr/CmdrClient/Shared/Dispatcher.luau:363",
+    "Cmdr/CmdrClient/Shared/Dispatcher.luau:382"
+   ],
+   "kick": [
+    "Cmdr/BuiltInCommands/Admin/kickServer.luau:23"
+   ],
+   "OnServerInvoke": [
+    "Cmdr/init.luau:142"
+   ]
+  },
+  "binaries": [],
+  "manifests": [
+   "default.project.json",
+   "package.json",
+   "rokit.toml",
+   "selene.toml",
+   "stylua.toml",
+   "wally.toml"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [
+   ".github/workflows/deploy-site.yml",
+   ".github/workflows/lint.yml",
+   ".github/workflows/test-site.yml"
+  ],
+  "ts_files": 0,
+  "wally": {
+   "wally.toml": {
+    "name": "evaera/cmdr",
+    "version": "1.13.0",
+    "license": "MIT",
+    "deps": []
+   }
+  }
+ },
+ "evaera/roblox-lua-promise": {
+  "repo": "evaera/roblox-lua-promise",
+  "last_commit": "2023-10-15",
+  "first_commit": "2018-01-25",
+  "commits": 211,
+  "contributors": 15,
+  "commits_last_12m": 0,
+  "tags": 12,
+  "latest_tag": "v4.0.0",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2019 Eryn L. K. Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documenta",
+  "lua_files": 3,
+  "luaurc_mode": null,
+  "loc": 3824,
+  "strict": 0,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {},
+  "binaries": [],
+  "manifests": [
+   ".gitmodules",
+   "aftman.toml",
+   "default.project.json",
+   "selene.toml",
+   "wally.toml"
+  ],
+  "tests": [
+   "lib/init.spec.lua"
+  ],
+  "n_tests": 1,
+  "ci": [],
+  "ts_files": 0,
+  "wally": {
+   "wally.toml": {
+    "name": "evaera/promise",
+    "version": "4.0.0",
+    "license": "MIT",
+    "deps": []
+   }
+  }
+ },
+ "ffrostfall/ByteNet": {
+  "repo": "ffrostfall/ByteNet",
+  "last_commit": "2025-08-01",
+  "first_commit": "2023-12-06",
+  "commits": 78,
+  "contributors": 9,
+  "commits_last_12m": 0,
+  "tags": 6,
+  "latest_tag": "v0.4.3",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "Copyright 2025 ffrostfall Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ",
+  "lua_files": 30,
+  "luaurc_mode": "strict",
+  "loc": 1054,
+  "strict": 0,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {
+   "OnServerEvent": [
+    "src/process/server.luau:94",
+    "src/process/server.luau:99"
+   ]
+  },
+  "binaries": [],
+  "manifests": [
+   ".luaurc",
+   "default.project.json",
+   "rokit.toml",
+   "stylua.toml",
+   "wally.toml"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [],
+  "ts_files": 0,
+  "wally": {
+   "wally.toml": {
+    "name": "ffrostfall/bytenet",
+    "version": "0.5.0",
+    "license": null,
+    "deps": []
+   }
+  }
+ },
+ "grayzcale/simplepath": {
+  "repo": "grayzcale/simplepath",
+  "last_commit": "2026-06-11",
+  "first_commit": "2021-04-29",
+  "commits": 176,
+  "contributors": 10,
+  "commits_last_12m": 6,
+  "tags": 5,
+  "latest_tag": "v2.2.1",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2023 grayzcale Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentat",
+  "lua_files": 3,
+  "luaurc_mode": null,
+  "loc": 453,
+  "strict": 0,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {},
+  "binaries": [
+   "tests/bin/Dummy.rbxm"
+  ],
+  "manifests": [
+   ".gitmodules",
+   "foreman.toml",
+   "selene.toml"
+  ],
+  "tests": [
+   "src/SimplePath.spec.lua",
+   "tests/.server.lua",
+   "tests/bin/Dummy.rbxm"
+  ],
+  "n_tests": 2,
+  "ci": [
+   ".github/workflows/ci.yml",
+   ".github/workflows/docs.yml",
+   ".github/workflows/release.yml"
+  ],
+  "ts_files": 0,
+  "wally": {}
+ },
+ "hatmatty/AMS": {
+  "repo": "hatmatty/AMS",
+  "last_commit": "2022-06-02",
+  "first_commit": "2021-09-16",
+  "commits": 178,
+  "contributors": 4,
+  "commits_last_12m": 0,
+  "tags": 4,
+  "latest_tag": "v0.4.0",
+  "license_files": [
+   "LICENSE.md"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2021 Mahatma Kollu Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated docume",
+  "lua_files": 2,
+  "luaurc_mode": null,
+  "loc": 451,
+  "strict": 0,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {},
+  "binaries": [
+   "build.rbxl"
+  ],
+  "manifests": [
+   "default.project.json",
+   "package.json",
+   "selene.toml",
+   "tsconfig.json"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [],
+  "ts_files": 56,
+  "wally": {}
+ },
+ "howmanysmall/Janitor": {
+  "repo": "howmanysmall/Janitor",
+  "last_commit": "2025-10-18",
+  "first_commit": "2021-02-04",
+  "commits": 191,
+  "contributors": 10,
+  "commits_last_12m": 2,
+  "tags": 29,
+  "latest_tag": "v1.17.0",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2021 Validark / howmanysmall Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associa",
+  "lua_files": 38,
+  "luaurc_mode": "strict",
+  "loc": 9588,
+  "strict": 31,
+  "nonstrict": 2,
+  "nocheck": 0,
+  "sec": {},
+  "binaries": [],
+  "manifests": [
+   ".luaurc",
+   "default.project.json",
+   "rokit.toml",
+   "selene.toml",
+   "stylua.toml",
+   "wally.toml"
+  ],
+  "tests": [
+   "src/__tests__/Janitor.test.luau",
+   "src/jest.config.luau"
+  ],
+  "n_tests": 1,
+  "ci": [],
+  "ts_files": 0,
+  "wally": {
+   "wally.toml": {
+    "name": "howmanysmall/janitor",
+    "version": "1.18.3",
+    "license": "MIT",
+    "deps": [
+     "howmanysmall/typed-promise@4.0.3",
+     "jsdotlua/jest@3.10.0",
+     "jsdotlua/jest-globals@3.10.0"
+    ]
+   }
+  }
+ },
+ "littensy/charm": {
+  "repo": "littensy/charm",
+  "last_commit": "2026-06-21",
+  "first_commit": "2024-02-25",
+  "commits": 129,
+  "contributors": 9,
+  "commits_last_12m": 6,
+  "tags": 33,
+  "latest_tag": "charm-v0.11.0",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "The MIT License (MIT) Copyright 2024-present Littensy Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associat",
+  "lua_files": 58,
+  "luaurc_mode": "strict",
+  "loc": 6786,
+  "strict": 0,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {},
+  "binaries": [],
+  "manifests": [
+   ".gitmodules",
+   ".luaurc",
+   "default.project.json",
+   "package.json",
+   "packages/charm-sync/default.project.json",
+   "packages/charm-sync/package.json",
+   "packages/charm-sync/wally.toml",
+   "packages/charm/default.project.json",
+   "packages/charm/package.json",
+   "packages/charm/wally.toml",
+   "packages/deep-charm/default.project.json",
+   "packages/deep-charm/package.json",
+   "packages/deep-charm/wally.toml",
+   "packages/react-charm/default.project.json",
+   "packages/react-charm/package.json",
+   "packages/react-charm/wally.toml",
+   "packages/vide-charm/default.project.json",
+   "packages/vide-charm/package.json",
+   "packages/vide-charm/wally.toml",
+   "rokit.toml",
+   "stylua.toml",
+   "tsconfig.json"
+  ],
+  "tests": [
+   "packages/charm-sync/test/client.test.luau",
+   "packages/charm-sync/test/e2e.test.luau",
+   "packages/charm-sync/test/init.luau",
+   "packages/charm-sync/test/patch.test.luau",
+   "packages/charm-sync/test/server.test.luau"
+  ],
+  "n_tests": 30,
+  "ci": [
+   ".github/workflows/ci.yml",
+   ".github/workflows/release.yml"
+  ],
+  "ts_files": 0,
+  "wally": {
+   "packages/charm-sync/wally.toml": {
+    "name": "littensy/charm-sync",
+    "version": "0.4.0",
+    "license": null,
+    "deps": [
+     "littensy/charm@^0.11.0"
+    ]
+   },
+   "packages/charm/wally.toml": {
+    "name": "littensy/charm",
+    "version": "0.11.0",
+    "license": null,
+    "deps": []
+   },
+   "packages/deep-charm/wally.toml": {
+    "name": "littensy/deep-charm",
+    "version": "0.1.0",
+    "license": null,
+    "deps": [
+     "littensy/charm@^0.11.0"
+    ]
+   }
+  }
+ },
+ "michaelvqq/RollbackHitbox": {
+  "repo": "michaelvqq/RollbackHitbox",
+  "last_commit": "2026-07-09",
+  "first_commit": "2026-03-31",
+  "commits": 10,
+  "contributors": 2,
+  "commits_last_12m": 10,
+  "tags": 2,
+  "latest_tag": "v1.0.1",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2026 Michael Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentatio",
+  "lua_files": 5,
+  "luaurc_mode": null,
+  "loc": 742,
+  "strict": 5,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {},
+  "binaries": [],
+  "manifests": [
+   "default.project.json",
+   "rokit.toml",
+   "selene.toml",
+   "wally.toml"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [
+   ".github/workflows/build.yml",
+   ".github/workflows/claude-code-review.yml",
+   ".github/workflows/claude.yml"
+  ],
+  "ts_files": 0,
+  "wally": {
+   "wally.toml": {
+    "name": "michaelvqq/rollbackhitbox",
+    "version": "0.1.0",
+    "license": "MIT",
+    "deps": []
+   }
+  }
+ },
+ "nezuo/lapis": {
+  "repo": "nezuo/lapis",
+  "last_commit": "2025-02-11",
+  "first_commit": "2021-06-18",
+  "commits": 198,
+  "contributors": 5,
+  "commits_last_12m": 0,
+  "tags": 14,
+  "latest_tag": "v0.3.3",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2024 Micah Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation ",
+  "lua_files": 23,
+  "luaurc_mode": null,
+  "loc": 3559,
+  "strict": 1,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {
+   "HttpService": [
+    "src/Collection.luau:1",
+    "src/Collection.luau:1",
+    "src/Collection.luau:65"
+   ],
+   "MarketplaceService": [
+    "examples/developer-product-handling/src/server/init.server.luau:1",
+    "examples/developer-product-handling/src/server/init.server.luau:1",
+    "examples/developer-product-handling/src/server/init.server.luau:107",
+    "examples/developer-product-handling/test/src/DeveloperProductHandling.test.lua:9",
+    "examples/developer-product-handling/test/src/DeveloperProductHandling.test.lua:9",
+    "examples/developer-product-handling/test/src/DeveloperProductHandling.test.lua:36",
+    "examples/developer-product-handling/test/src/MarketplaceServiceMock.lua:1",
+    "examples/developer-product-handling/test/src/MarketplaceServiceMock.lua:2",
+    "examples/developer-product-handling/test/src/MarketplaceServiceMock.lua:2",
+    "examples/developer-product-handling/test/src/MarketplaceServiceMock.lua:4",
+    "examples/developer-product-handling/test/src/MarketplaceServiceMock.lua:7",
+    "examples/developer-product-handling/test/src/MarketplaceServiceMock.lua:10",
+    "examples/developer-product-handling/test/src/MarketplaceServiceMock.lua:31"
+   ],
+   "kick": [
+    "examples/developer-product-handling/src/server/init.server.luau:40",
+    "examples/player-data/src/server/init.server.luau:36"
+   ]
+  },
+  "binaries": [],
+  "manifests": [
+   "default.project.json",
+   "examples/developer-product-handling/default.project.json",
+   "examples/developer-product-handling/test/default.project.json",
+   "examples/developer-product-handling/test/wally.toml",
+   "examples/developer-product-handling/wally.toml",
+   "examples/player-data/default.project.json",
+   "examples/player-data/wally.toml",
+   "selene.toml",
+   "test/default.project.json",
+   "wally.toml"
+  ],
+  "tests": [
+   "examples/developer-product-handling/test/default.project.json",
+   "examples/developer-product-handling/test/src/DeveloperProductHandling.test.lua",
+   "examples/developer-product-handling/test/src/MarketplaceServiceMock.lua",
+   "examples/developer-product-handling/test/src/PlayerMock.lua",
+   "examples/developer-product-handling/test/src/runTest.server.lua"
+  ],
+  "n_tests": 7,
+  "ci": [],
+  "ts_files": 0,
+  "wally": {
+   "examples/developer-product-handling/test/wally.toml": {
+    "name": "lapis/developer-product-example-tests",
+    "version": "0.1.0",
+    "license": null,
+    "deps": [
+     "nezuo/midori@0.1.3",
+     "evaera/promise@4.0.0",
+     "csqrl/sift@0.0.8",
+     "osyrisrblx/t@3.0.0",
+     "nezuo/data-store-service-mock@0.3.5"
+    ]
+   },
+   "examples/developer-product-handling/wally.toml": {
+    "name": "lapis/developer-product-example",
+    "version": "0.1.0",
+    "license": null,
+    "deps": [
+     "evaera/promise@4.0.0",
+     "csqrl/sift@0.0.8",
+     "osyrisrblx/t@3.0.0"
+    ]
+   },
+   "examples/player-data/wally.toml": {
+    "name": "lapis/player-data-example",
+    "version": "0.1.0",
+    "license": null,
+    "deps": [
+     "osyrisrblx/t@3.0.0",
+     "evaera/promise@4.0.0"
+    ]
+   }
+  }
+ },
+ "osyrisrblx/t": {
+  "repo": "osyrisrblx/t",
+  "last_commit": "2025-03-11",
+  "first_commit": "2018-06-25",
+  "commits": 302,
+  "contributors": 19,
+  "commits_last_12m": 0,
+  "tags": 3,
+  "latest_tag": "v3.0.0",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2018 Osyris Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation",
+  "lua_files": 4,
+  "luaurc_mode": "nonstrict",
+  "loc": 3352,
+  "strict": 0,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {},
+  "binaries": [],
+  "manifests": [
+   ".gitmodules",
+   ".luaurc",
+   "default.project.json",
+   "foreman.toml",
+   "package.json",
+   "tsconfig.json",
+   "wally.toml"
+  ],
+  "tests": [
+   "lib/init.spec.lua"
+  ],
+  "n_tests": 1,
+  "ci": [
+   ".github/workflows/main.yml"
+  ],
+  "ts_files": 0,
+  "wally": {
+   "wally.toml": {
+    "name": "osyrisrblx/t",
+    "version": "3.1.1",
+    "license": "MIT",
+    "deps": []
+   }
+  }
+ },
+ "paradoxum-games/lyra": {
+  "repo": "paradoxum-games/lyra",
+  "last_commit": "2026-03-25",
+  "first_commit": "2024-04-13",
+  "commits": 552,
+  "contributors": 8,
+  "commits_last_12m": 15,
+  "tags": 5,
+  "latest_tag": "v0.6.0",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2024 Paradoxum Games Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated docu",
+  "lua_files": 44,
+  "luaurc_mode": "strict",
+  "loc": 14038,
+  "strict": 0,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {
+   "HttpService": [
+    "src/Files.luau:28",
+    "src/Files.luau:28",
+    "src/Files.luau:116",
+    "src/Files.luau:125",
+    "src/Files.luau:131",
+    "src/Files.luau:222",
+    "src/Files.luau:235",
+    "src/Locks.luau:19",
+    "src/Locks.luau:19",
+    "src/Locks.luau:93",
+    "src/MockDataStoreService.luau:1",
+    "src/MockDataStoreService.luau:1",
+    "src/MockDataStoreService.luau:108",
+    "src/MockDataStoreService.luau:180",
+    "src/MockDataStoreService.luau:563",
+    "src/MockDataStoreService.luau:571",
+    "src/MockMemoryStoreService.luau:1",
+    "src/MockMemoryStoreService.luau:1",
+    "src/MockMemoryStoreService.luau:121",
+    "src/MockMemoryStoreService.luau:192",
+    "src/MockMemoryStoreService.luau:353",
+    "src/MockMemoryStoreService.luau:358",
+    "src/Session.luau:28",
+    "src/Session.luau:28",
+    "src/Session.luau:269",
+    "src/Session.luau:784",
+    "src/Store.luau:49",
+    "src/Store.luau:49",
+    "src/Store.luau:776",
+    "test/Lyra/__tests__/Simulation/chaos.spec.luau:1",
+    "test/Lyra/__tests__/Simulation/chaos.spec.luau:1",
+    "test/Lyra/__tests__/Simulation/chaos.spec.luau:65",
+    "test/Lyra/__tests__/Simulation/chaos.spec.luau:66",
+    "test/Lyra/__tests__/Simulation/chaos.spec.luau:470",
+    "test/Lyra/__tests__/Simulation/chaos.spec.luau:471",
+    "test/Lyra/__tests__/Unit/Files.spec.luau:1",
+    "test/Lyra/__tests__/Unit/Files.spec.luau:1",
+    "test/Lyra/__tests__/Unit/Files.spec.luau:121",
+    "test/Lyra/__tests__/Unit/Files.spec.luau:123",
+    "test/Lyra/__tests__/Unit/Transactions.spec.luau:1",
+    "test/Lyra/__tests__/Unit/Transactions.spec.luau:1",
+    "test/Lyra/__tests__/Unit/Transactions.spec.luau:22"
+   ],
+   "TeleportService": [
+    "test/Lyra/__tests__/Simulation/sim.spec.luau:25",
+    "test/Lyra/__tests__/Simulation/sim.spec.luau:25",
+    "test/Lyra/__tests__/Simulation/sim.spec.luau:32",
+    "test/Lyra/__tests__/Universe/init.luau:237",
+    "test/Lyra/__tests__/Universe/init.luau:244",
+    "test/Lyra/__tests__/Universe/init.luau:244",
+    "test/Lyra/__tests__/Universe/init.luau:443",
+    "test/Lyra/__tests__/Universe/init.luau:443",
+    "test/Lyra/__tests__/Universe/init.luau:465",
+    "test/Lyra/__tests__/Universe/init.luau:465"
+   ],
+   "MarketplaceService": [
+    "src/Store.luau:1171"
+   ],
+   "kick": [
+    "src/PlayerStore.luau:200",
+    "src/PlayerStore.luau:206"
+   ],
+   "userid_whitelist": [
+    "test/Lyra/__tests__/Simulation/basic.spec.luau:90",
+    "test/Lyra/__tests__/Simulation/basic.spec.luau:93",
+    "test/Lyra/__tests__/Simulation/basic.spec.luau:106",
+    "test/Lyra/__tests__/Simulation/basic.spec.luau:190",
+    "test/Lyra/__tests__/Simulation/basic.spec.luau:257",
+    "test/Lyra/__tests__/Simulation/basic.spec.luau:260",
+    "test/Lyra/__tests__/Simulation/basic.spec.luau:275"
+   ]
+  },
+  "binaries": [],
+  "manifests": [
+   ".luaurc",
+   ".lune/.luaurc",
+   "default.project.json",
+   "rokit.toml",
+   "selene.toml",
+   "stylua.toml",
+   "test/Lyra/.luaurc",
+   "wally.toml"
+  ],
+  "tests": [
+   "test/AnsiHelper.luau",
+   "test/Lyra/.luaurc",
+   "test/Lyra/JsonPatch/__tests__/JsonPatch.spec.luau",
+   "test/Lyra/__tests__/Integration/fileCleanup.spec.luau",
+   "test/Lyra/__tests__/Integration/tx.spec.luau"
+  ],
+  "n_tests": 23,
+  "ci": [
+   ".github/workflows/publish-docs.yml",
+   ".github/workflows/release-package.yml"
+  ],
+  "ts_files": 0,
+  "wally": {
+   "wally.toml": {
+    "name": "paradoxum-games/lyra",
+    "version": "0.6.1",
+    "license": "MIT",
+    "deps": [
+     "evaera/promise@4.0.0",
+     "osyrisrblx/t@3.1.1",
+     "jsdotlua/jest@3.10.0",
+     "jsdotlua/jest-globals@3.10.0"
+    ]
+   }
+  }
+ },
+ "prooheckcp/RoQuest": {
+  "repo": "prooheckcp/RoQuest",
+  "last_commit": "2025-05-22",
+  "first_commit": "2024-04-15",
+  "commits": 124,
+  "contributors": 3,
+  "commits_last_12m": 0,
+  "tags": 4,
+  "latest_tag": "V.0.1.3",
+  "license_files": [
+   "LICENSE.txt"
+  ],
+  "license_detected": [
+   "Apache-2.0"
+  ],
+  "license_head": "Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION 1. Definitions. \"License\" ",
+  "lua_files": 63,
+  "luaurc_mode": null,
+  "loc": 10517,
+  "strict": 13,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {
+   "OnServerEvent": [
+    "RoQuest/Vendor/Red/Net/Event.luau:118"
+   ]
+  },
+  "binaries": [],
+  "manifests": [
+   "aftman.toml",
+   "default.project.json",
+   "selene.toml",
+   "wally.toml"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [
+   ".github/workflows/check.yaml",
+   ".github/workflows/docs.yaml",
+   ".github/workflows/wally.yaml"
+  ],
+  "ts_files": 0,
+  "wally": {
+   "wally.toml": {
+    "name": "prooheckcp/roquest",
+    "version": "0.1.6",
+    "license": "MIT",
+    "deps": []
+   }
+  }
+ },
+ "prooheckcp/RobloxStateMachine": {
+  "repo": "prooheckcp/RobloxStateMachine",
+  "last_commit": "2024-05-12",
+  "first_commit": "2023-05-05",
+  "commits": 149,
+  "contributors": 5,
+  "commits_last_12m": 0,
+  "tags": 7,
+  "latest_tag": "V.1.1.7",
+  "license_files": [
+   "license"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "Copyright (c) [2023] [prooheckcp] Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation fil",
+  "lua_files": 13,
+  "luaurc_mode": null,
+  "loc": 2065,
+  "strict": 0,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {
+   "HttpService": [
+    "src/StateMachine/init.lua:1",
+    "src/StateMachine/init.lua:1",
+    "src/StateMachine/init.lua:218"
+   ]
+  },
+  "binaries": [],
+  "manifests": [
+   "aftman.toml",
+   "default.project.json",
+   "selene.toml",
+   "wally.toml"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [
+   ".github/workflows/check.yaml",
+   ".github/workflows/docs.yaml",
+   ".github/workflows/wally.yaml"
+  ],
+  "ts_files": 0,
+  "wally": {
+   "wally.toml": {
+    "name": "prooheckcp/robloxstatemachine",
+    "version": "1.1.7",
+    "license": "MIT",
+    "deps": []
+   }
+  }
+ },
+ "red-blox/zap": {
+  "repo": "red-blox/zap",
+  "last_commit": "2026-06-23",
+  "first_commit": "2023-12-14",
+  "commits": 334,
+  "contributors": 22,
+  "commits_last_12m": 17,
+  "tags": 41,
+  "latest_tag": "v0.6.29",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "Copyright 2023 The Redblox Authors Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation fi",
+  "lua_files": 3,
+  "luaurc_mode": "nocheck",
+  "loc": 261,
+  "strict": 1,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {
+   "OnServerEvent": [
+    "zap/tests/lune/base.luau:38",
+    "zap/tests/lune/base.luau:44"
+   ]
+  },
+  "binaries": [],
+  "manifests": [
+   ".luaurc",
+   "package.json",
+   "selene.toml"
+  ],
+  "tests": [
+   "zap/tests/files/bitpacking.zap",
+   "zap/tests/files/call_default.zap",
+   "zap/tests/files/function.zap",
+   "zap/tests/files/function_mutiple_rets.zap",
+   "zap/tests/files/function_one_unnamed_parameter.zap"
+  ],
+  "n_tests": 2,
+  "ci": [
+   ".github/workflows/ci.yml",
+   ".github/workflows/docs.yml",
+   ".github/workflows/release.yml"
+  ],
+  "ts_files": 2,
+  "wally": {}
+ },
+ "ryanlua/satchel": {
+  "repo": "ryanlua/satchel",
+  "last_commit": "2026-09-22",
+  "first_commit": "2023-05-28",
+  "commits": 1020,
+  "contributors": 10,
+  "commits_last_12m": 121,
+  "tags": 9,
+  "latest_tag": "v1.4.1",
+  "license_files": [
+   "LICENSE.md"
+  ],
+  "license_detected": [
+   "MPL-2.0"
+  ],
+  "license_head": "Mozilla Public License Version 2.0 ================================== ### 1. Definitions **1.1. \u201cContributor\u201d** means each individual or legal entity that creat",
+  "lua_files": 4,
+  "luaurc_mode": null,
+  "loc": 2204,
+  "strict": 1,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {},
+  "binaries": [],
+  "manifests": [
+   "default.project.json",
+   "rokit.toml",
+   "selene.toml",
+   "stylua.toml",
+   "wally.toml"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [
+   ".github/workflows/ci.yml",
+   ".github/workflows/docs.yml",
+   ".github/workflows/release.yml"
+  ],
+  "ts_files": 0,
+  "wally": {
+   "wally.toml": {
+    "name": "ryanlua/satchel",
+    "version": "1.4.1",
+    "license": "MPL-2.0",
+    "deps": [
+     "1foreverhd/topbarplus@3.4.0"
+    ]
+   }
+  }
+ },
+ "text21/Rewind": {
+  "repo": "text21/Rewind",
+  "last_commit": "2026-01-09",
+  "first_commit": "2025-12-18",
+  "commits": 31,
+  "contributors": 2,
+  "commits_last_12m": 31,
+  "tags": 4,
+  "latest_tag": "v1.2.1",
+  "license_files": [],
+  "license_detected": [],
+  "license_head": "",
+  "lua_files": 623,
+  "luaurc_mode": null,
+  "loc": 51511,
+  "strict": 35,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {
+   "getfenv_setfenv": [
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/Habitat.lua:123",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/baste.lua:186",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/src/TestPlan.lua:192",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/src/TestPlan.lua:200",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/src/TestRunner.lua:65",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/tests/errorTypes.lua:10",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/tests/errorTypes.lua:10",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/tests/lifecycleHooks.lua:45",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/tests/lifecycleHooks.lua:45",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/Habitat.lua:123",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/baste.lua:186",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/src/TestPlan.lua:184",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/src/TestPlan.lua:189",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/src/TestRunner.lua:58",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/tests/lifecycleHooks.lua:45",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/tests/lifecycleHooks.lua:45"
+   ],
+   "loadstring": [
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/Habitat.lua:120",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/baste.lua:179",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/Habitat.lua:120",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/baste.lua:179"
+   ],
+   "HttpService": [
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/Game.lua:11",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/Game.lua:11",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/Game.lua:42",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/HttpService.lua:5",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/HttpService.lua:5",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/HttpService.lua:7",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/HttpService.lua:11",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/HttpService.lua:15",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/HttpService.lua:23",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/HttpService.lua:40",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/HttpService_spec.lua:1",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/HttpService_spec.lua:1",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/HttpService_spec.lua:3",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/HttpService_spec.lua:5",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/HttpService_spec.lua:11",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/HttpService_spec.lua:17",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/HttpService_spec.lua:23",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/HttpService_spec.lua:33",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/HttpService_spec.lua:41",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/HttpService_spec.lua:52",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/init.lua:16",
+    "DevPackages/_Index/sirmallard_iris@2.5.0/iris/lib/Internal.lua:1",
+    "DevPackages/_Index/sirmallard_iris@2.5.0/iris/lib/Internal.lua:1",
+    "DevPackages/_Index/sirmallard_iris@2.5.0/iris/lib/Internal.lua:1",
+    "DevPackages/_Index/sirmallard_iris@2.5.0/iris/lib/Internal.lua:561",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/Game.lua:11",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/Game.lua:11",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/Game.lua:42",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/HttpService.lua:5",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/HttpService.lua:5",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/HttpService.lua:7",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/HttpService.lua:11",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/HttpService.lua:15",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/HttpService.lua:23",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/HttpService.lua:40",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/HttpService_spec.lua:1",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/HttpService_spec.lua:1",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/HttpService_spec.lua:3",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/HttpService_spec.lua:5",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/HttpService_spec.lua:11",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/HttpService_spec.lua:17",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/HttpService_spec.lua:23",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/HttpService_spec.lua:33",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/HttpService_spec.lua:41",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/HttpService_spec.lua:52",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/init.lua:16",
+    "Packages/_Index/sleitnick_table-util@1.2.1/table-util/init.lua:21",
+    "Packages/_Index/sleitnick_table-util@1.2.1/table-util/init.lua:21",
+    "Packages/_Index/sleitnick_table-util@1.2.1/table-util/init.lua:879",
+    "Packages/_Index/sleitnick_table-util@1.2.1/table-util/init.lua:879",
+    "Packages/_Index/sleitnick_table-util@1.2.1/table-util/init.lua:882",
+    "Packages/_Index/sleitnick_table-util@1.2.1/table-util/init.lua:891",
+    "Packages/_Index/sleitnick_table-util@1.2.1/table-util/init.lua:891",
+    "Packages/_Index/sleitnick_table-util@1.2.1/table-util/init.lua:894"
+   ],
+   "InsertService": [
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/Game.lua:12",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/Game.lua:12",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/Game.lua:43",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/InsertService.lua:2",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/InsertService.lua:2",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/InsertService.lua:4",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/InsertService_spec.lua:1",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/InsertService_spec.lua:1",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/InsertService_spec.lua:3",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/InsertService_spec.lua:5",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/Game.lua:12",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/Game.lua:12",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/Game.lua:43",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/InsertService.lua:2",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/InsertService.lua:2",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/InsertService.lua:4",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/InsertService_spec.lua:1",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/InsertService_spec.lua:1",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/InsertService_spec.lua:3",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/InsertService_spec.lua:5"
+   ],
+   "MarketplaceService": [
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/Game.lua:15",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/Game.lua:15",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/Game.lua:45",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/MarketplaceService.lua:4",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/MarketplaceService.lua:4",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/MarketplaceService.lua:6",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/MarketplaceService.lua:12",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/MarketplaceService.lua:18",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/MarketplaceService.lua:24",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/MarketplaceService.lua:30",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/MarketplaceService_spec.lua:1",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/MarketplaceService_spec.lua:1",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/MarketplaceService_spec.lua:3",
+    "DevPackages/_Index/roblox_testez@0.4.1/testez/modules/lemur/lib/instances/MarketplaceService_spec.lua:5",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/Game.lua:15",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/Game.lua:15",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/Game.lua:45",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/MarketplaceService.lua:4",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/MarketplaceService.lua:4",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/MarketplaceService.lua:6",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/MarketplaceService.lua:12",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/MarketplaceService.lua:18",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/MarketplaceService.lua:24",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/MarketplaceService.lua:30",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/MarketplaceService_spec.lua:1",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/MarketplaceService_spec.lua:1",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/MarketplaceService_spec.lua:3",
+    "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/modules/lemur/lib/instances/MarketplaceService_spec.lua:5"
+   ],
+   "kick": [
+    "src/shared/Rewind/Server/AbuseTracker.lua:318",
+    "src/shared/Rewind/Server/AbuseTracker.lua:418",
+    "src/shared/Rewind/Server/AbuseTracker.lua:479"
+   ],
+   "OnServerEvent": [
+    "src/shared/Rewind/Replication/init.lua:95",
+    "src/shared/Rewind/Server/Server.lua:877"
+   ],
+   "OnServerInvoke": [
+    "src/shared/Rewind/ClockSync/Server.lua:28"
+   ]
+  },
+  "binaries": [
+   "docs/RobloxBuilds/RewindRelease.rbxm",
+   "docs/RobloxBuilds/Rewindv1.1.0.rbxm",
+   "docs/RobloxBuilds/Rewindv1.2.0.rbxm",
+   "docs/RobloxBuilds/Rewindv1.2.1.rbxm"
+  ],
+  "manifests": [
+   "DevPackages/_Index/roblox_testez@0.4.1/testez/.gitmodules",
+   "DevPackages/_Index/roblox_testez@0.4.1/testez/default.project.json",
+   "DevPackages/_Index/roblox_testez@0.4.1/testez/foreman.toml",
+   "DevPackages/_Index/roblox_testez@0.4.1/testez/wally.toml",
+   "DevPackages/_Index/sirmallard_iris@2.5.0/iris/default.project.json",
+   "DevPackages/_Index/sirmallard_iris@2.5.0/iris/wally.toml",
+   "Packages/_Index/evaera_promise@4.0.0/promise/aftman.toml",
+   "Packages/_Index/evaera_promise@4.0.0/promise/default.project.json",
+   "Packages/_Index/evaera_promise@4.0.0/promise/foreman.toml",
+   "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/.gitmodules",
+   "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/default.project.json",
+   "Packages/_Index/evaera_promise@4.0.0/promise/modules/testez/foreman.toml",
+   "Packages/_Index/evaera_promise@4.0.0/promise/selene.toml",
+   "Packages/_Index/evaera_promise@4.0.0/promise/wally.toml",
+   "Packages/_Index/osyrisrblx_t@3.1.1/t/.luaurc",
+   "Packages/_Index/osyrisrblx_t@3.1.1/t/default.project.json",
+   "Packages/_Index/osyrisrblx_t@3.1.1/t/wally.toml",
+   "Packages/_Index/sleitnick_signal@2.0.3/signal/wally.toml",
+   "Packages/_Index/sleitnick_table-util@1.2.1/table-util/wally.toml",
+   "Packages/_Index/sleitnick_trove@1.8.0/trove/wally.toml",
+   "default.project.json",
+   "docs/package.json",
+   "selene.toml",
+   "wally.toml"
+  ],
+  "tests": [
+   "DevPackages/_Index/roblox_testez@0.4.1/testez/test/lemur.lua",
+   "DevPackages/_Index/roblox_testez@0.4.1/testez/test/roblox-cli.sh",
+   "DevPackages/_Index/roblox_testez@0.4.1/testez/test/runner.server.lua",
+   "DevPackages/_Index/roblox_testez@0.4.1/testez/tests/.DS_Store",
+   "DevPackages/_Index/roblox_testez@0.4.1/testez/tests/Context.lua"
+  ],
+  "n_tests": 73,
+  "ci": [
+   ".github/workflows/deploy-docs.yml"
+  ],
+  "ts_files": 0,
+  "wally": {
+   "DevPackages/_Index/roblox_testez@0.4.1/testez/wally.toml": {
+    "name": "roblox/testez",
+    "version": "0.4.1",
+    "license": "Apache2",
+    "deps": []
+   },
+   "DevPackages/_Index/sirmallard_iris@2.5.0/iris/wally.toml": {
+    "name": "sirmallard/iris",
+    "version": "2.5.0",
+    "license": "MIT",
+    "deps": []
+   },
+   "Packages/_Index/evaera_promise@4.0.0/promise/wally.toml": {
+    "name": "evaera/promise",
+    "version": "4.0.0",
+    "license": "MIT",
+    "deps": []
+   }
+  }
+ },
+ "wad4444/WCS": {
+  "repo": "wad4444/WCS",
+  "last_commit": "2025-11-12",
+  "first_commit": "2023-12-10",
+  "commits": 512,
+  "contributors": 9,
+  "commits_last_12m": 1,
+  "tags": 22,
+  "latest_tag": "v2.5.0",
+  "license_files": [
+   "LICENSE.txt"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2023 g1mmethemoney Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated docume",
+  "lua_files": 8,
+  "luaurc_mode": null,
+  "loc": 570,
+  "strict": 0,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {},
+  "binaries": [],
+  "manifests": [
+   "default.project.json",
+   "docs/package.json",
+   "package.json",
+   "rokit.toml",
+   "tsconfig.json",
+   "wally.toml"
+  ],
+  "tests": [
+   "src/tests/character.spec.ts",
+   "src/tests/client.spec.ts",
+   "src/tests/index.spec.ts",
+   "src/tests/movesets.spec.ts",
+   "src/tests/skill.spec.ts"
+  ],
+  "n_tests": 0,
+  "ci": [
+   ".github/workflows/biome.yaml",
+   ".github/workflows/docs.yaml",
+   ".github/workflows/publish-next.yaml"
+  ],
+  "ts_files": 20,
+  "wally": {
+   "wally.toml": {
+    "name": "cheetiedotpy/wcs",
+    "version": "2.5.0",
+    "license": "MIT",
+    "deps": []
+   }
+  }
+ },
+ "wad4444/refx": {
+  "repo": "wad4444/refx",
+  "last_commit": "2024-12-23",
+  "first_commit": "2024-05-03",
+  "commits": 139,
+  "contributors": 5,
+  "commits_last_12m": 0,
+  "tags": 2,
+  "latest_tag": "v0.3.2",
+  "license_files": [
+   "LICENSE.txt"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2023 wad4444 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentatio",
+  "lua_files": 25,
+  "luaurc_mode": "nonstrict",
+  "loc": 1010,
+  "strict": 1,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {},
+  "binaries": [],
+  "manifests": [
+   ".luaurc",
+   "aftman.toml",
+   "default.project.json",
+   "docs/package.json",
+   "docs/tsconfig.json",
+   "package.json",
+   "selene.toml",
+   "tsconfig.json",
+   "wally.toml"
+  ],
+  "tests": [
+   "src/tests/clientProxy.spec.luau",
+   "src/tests/creation.spec.luau",
+   "src/tests/serverProxy.spec.luau"
+  ],
+  "n_tests": 3,
+  "ci": [
+   ".github/workflows/ci.yaml",
+   ".github/workflows/docs.yaml",
+   ".github/workflows/unit-tests.yaml"
+  ],
+  "ts_files": 2,
+  "wally": {
+   "wally.toml": {
+    "name": "wad4444/refx",
+    "version": "0.3.2",
+    "license": "MIT",
+    "deps": [
+     "littensy/remo@1.4.0",
+     "osyrisrblx/t@3.1.1",
+     "sleitnick/signal@2.0.1",
+     "roblox/testez@0.4.1"
+    ]
+   }
+  }
+ },
+ "weenachuangkud/FastCast2": {
+  "repo": "weenachuangkud/FastCast2",
+  "last_commit": "2026-09-20",
+  "first_commit": "2025-11-22",
+  "commits": 1205,
+  "contributors": 9,
+  "commits_last_12m": 1205,
+  "tags": 8,
+  "latest_tag": "v0.1.0",
+  "license_files": [
+   "LICENSE-ART",
+   "LICENSE-MIT"
+  ],
+  "license_detected": [
+   "MIT",
+   "CC"
+  ],
+  "license_head": "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) ======================================================================= Full License",
+  "lua_files": 17,
+  "luaurc_mode": null,
+  "loc": 6493,
+  "strict": 4,
+  "nonstrict": 0,
+  "nocheck": 0,
+  "sec": {
+   "HttpService": [
+    "src/Motor6DCache.luau:13",
+    "src/ObjectCache.luau:19",
+    "src/init.luau:53"
+   ]
+  },
+  "binaries": [],
+  "manifests": [
+   "default.project.json",
+   "package.json",
+   "rokit.toml",
+   "selene.toml",
+   "wally.toml"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [
+   ".github/workflows/publish-docs.yml"
+  ],
+  "ts_files": 0,
+  "wally": {
+   "wally.toml": {
+    "name": "weenachuangkud/fastcast2",
+    "version": "0.1.4",
+    "license": null,
+    "deps": []
+   }
+  }
+ },
+ "wrello/Animations": {
+  "repo": "wrello/Animations",
+  "last_commit": "2026-02-22",
+  "first_commit": "2023-08-02",
+  "commits": 171,
+  "contributors": 3,
+  "commits_last_12m": 10,
+  "tags": 15,
+  "latest_tag": "v3.0.0",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "MIT License Copyright (c) 2024 wrello Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation",
+  "lua_files": 14,
+  "luaurc_mode": null,
+  "loc": 3772,
+  "strict": 3,
+  "nonstrict": 0,
+  "nocheck": 1,
+  "sec": {},
+  "binaries": [],
+  "manifests": [
+   "aftman.toml"
+  ],
+  "tests": [],
+  "n_tests": 0,
+  "ci": [],
+  "ts_files": 0,
+  "wally": {}
+ },
+ "zilibobi/forge-vfx": {
+  "repo": "zilibobi/forge-vfx",
+  "last_commit": "2026-07-26",
+  "first_commit": "2025-09-23",
+  "commits": 151,
+  "contributors": 1,
+  "commits_last_12m": 138,
+  "tags": 14,
+  "latest_tag": "v2.4.0",
+  "license_files": [
+   "LICENSE"
+  ],
+  "license_detected": [
+   "MIT"
+  ],
+  "license_head": "SPDX-License-Identifier: VFX-DL-1.1 Preamble. Disclaimer: nothing stated in this preamble is legal advice. This is a simple license that allows anyone to use th",
+  "lua_files": 56,
+  "luaurc_mode": null,
+  "loc": 13164,
+  "strict": 2,
+  "nonstrict": 0,
+  "nocheck": 1,
+  "sec": {},
+  "binaries": [],
+  "manifests": [
+   ".gitmodules",
+   ".luaurc",
+   "default.project.json",
+   "package.json",
+   "rokit.toml",
+   "selene.toml",
+   "stylua.toml",
+   "tsconfig.json",
+   "wally.toml"
+  ],
+  "tests": [
+   "tests/harness.luau",
+   "tests/modifier_codec.spec.luau",
+   "tests/modifier_frame.spec.luau",
+   "tests/modifiers_eval.spec.luau",
+   "tests/roblox/modifier_codec.spec.luau"
+  ],
+  "n_tests": 11,
+  "ci": [
+   ".github/workflows/build.yml",
+   ".github/workflows/test-fork.yml",
+   ".github/workflows/test.yml"
+  ],
+  "ts_files": 0,
+  "wally": {
+   "wally.toml": {
+    "name": "zilibobi/forge-vfx",
+    "version": "2.4.0",
+    "license": "VFX-DL-1.1",
+    "deps": []
+   }
+  }
+ }
+}

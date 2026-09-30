@@ -1,0 +1,452 @@
+{
+ "7kayoh/lydie": {
+  "repo": "7kayoh/Lydie",
+  "last_commit": "2026-08-13",
+  "lua_files": 31,
+  "license_files": [
+   "LICENSE"
+  ],
+  "binaries": [],
+  "manifests": [
+   "aftman.toml",
+   "default.project.json",
+   "wally.toml"
+  ]
+ },
+ "asiandayboy/inventorymaker": {
+  "repo": "Asiandayboy/InventoryMaker",
+  "last_commit": "2025-12-21",
+  "lua_files": 11,
+  "license_files": [
+   "LICENSE"
+  ],
+  "binaries": [],
+  "manifests": [
+   "default.project.json",
+   "rokit.toml"
+  ]
+ },
+ "caidensteele05/attachment-based-raycast-hit-detection": {
+  "repo": "CaidenSteele05/Attachment-Based-Raycast-Hit-Detection",
+  "last_commit": "2026-04-06",
+  "lua_files": 1,
+  "license_files": [],
+  "binaries": [],
+  "manifests": []
+ },
+ "ecliptorhizes/hooksystem": {
+  "repo": "Ecliptorhizes/Hooksystem",
+  "last_commit": "2026-03-09",
+  "lua_files": 26,
+  "license_files": [
+   "LICENSE"
+  ],
+  "binaries": [],
+  "manifests": [
+   "default.project.json",
+   "wally.toml"
+  ]
+ },
+ "imavafe/neohotbar": {
+  "repo": "ImAvafe/NeoHotbar",
+  "last_commit": "2026-02-04",
+  "lua_files": 14,
+  "license_files": [
+   "LICENSE"
+  ],
+  "binaries": [
+   "DemoPlace.rbxl",
+   "src/DefaultInstances.rbxm"
+  ],
+  "manifests": [
+   "aftman.toml",
+   "default.project.json",
+   "wally.toml"
+  ]
+ },
+ "joshuaio/fighting-game-framework-robloxapi": {
+  "repo": "JoshuaIO/Fighting-Game-Framework-RobloxAPI",
+  "last_commit": "2025-05-11",
+  "lua_files": 50,
+  "license_files": [],
+  "binaries": [
+   "FGFrameworkRefractor.rbxl"
+  ],
+  "manifests": [
+   "default.project.json"
+  ]
+ },
+ "kurvox/roblox-ai-npc": {
+  "repo": "KURVOX/roblox-ai-npc",
+  "last_commit": "2026-09-23",
+  "lua_files": 0,
+  "license_files": [
+   "LICENSE"
+  ],
+  "binaries": [],
+  "manifests": []
+ },
+ "kampfkarren/roblox": {
+  "repo": "Kampfkarren/Roblox",
+  "last_commit": "2023-03-17",
+  "lua_files": 32,
+  "license_files": [
+   "LICENSE"
+  ],
+  "binaries": [],
+  "manifests": [
+   "default.project.json",
+   "foreman.toml",
+   "wally.toml"
+  ]
+ },
+ "kampfkarren/hoarcekat": {
+  "repo": "Kampfkarren/hoarcekat",
+  "last_commit": "2025-11-21",
+  "lua_files": 24,
+  "license_files": [
+   "LICENSE.md"
+  ],
+  "binaries": [],
+  "manifests": [
+   "foreman.toml",
+   "wally.toml"
+  ]
+ },
+ "kendallcole/robloxgravitykit": {
+  "repo": "KendallCole/RobloxGravityKit",
+  "last_commit": "2025-04-07",
+  "lua_files": 101,
+  "license_files": [],
+  "binaries": [],
+  "manifests": [
+   "aftman.toml",
+   "default.project.json"
+  ]
+ },
+ "lugicaldev/cameraservice": {
+  "repo": "LugicalDev/CameraService",
+  "last_commit": "2026-06-10",
+  "lua_files": 2,
+  "license_files": [
+   "LICENSE"
+  ],
+  "binaries": [
+   "Demo.rbxm"
+  ],
+  "manifests": []
+ },
+ "maxdevlol/roblox-parkour-system-by-max": {
+  "repo": "MaxDevLol/Roblox-Parkour-System-by-max",
+  "last_commit": "2026-02-11",
+  "lua_files": 0,
+  "license_files": [
+   "LICENSE"
+  ],
+  "binaries": [
+   "The System.rbxl"
+  ],
+  "manifests": []
+ },
+ "monzterdev/roblox-game-template": {
+  "repo": "MonzterDev/Roblox-Game-Template",
+  "last_commit": "2024-03-26",
+  "lua_files": 23,
+  "license_files": [],
+  "binaries": [
+   "Roblox-Game-Template-Standard.rbxl"
+  ],
+  "manifests": [
+   "aftman.toml",
+   "default.project.json",
+   "wally.toml"
+  ]
+ },
+ "opxourc/statusify": {
+  "repo": "Opxourc/statusify",
+  "last_commit": "2026-09-26",
+  "lua_files": 16,
+  "license_files": [
+   "LICENSE"
+  ],
+  "binaries": [],
+  "manifests": [
+   "default.project.json",
+   "rokit.toml",
+   "wally.toml"
+  ]
+ },
+ "realhyperion/hitmesh-pro": {
+  "repo": "RealHyperion/HitMesh-Pro",
+  "last_commit": "2024-11-27",
+  "lua_files": 1,
+  "license_files": [],
+  "binaries": [],
+  "manifests": []
+ },
+ "roblox/cube": {
+  "repo": "Roblox/cube",
+  "last_commit": "2026-05-27",
+  "lua_files": 0,
+  "license_files": [
+   "LICENSE"
+  ],
+  "binaries": [],
+  "manifests": []
+ },
+ "slubbie/slubbie": {
+  "repo": "Slubbie/slubbie",
+  "last_commit": "2026-09-27",
+  "lua_files": 38,
+  "license_files": [],
+  "binaries": [],
+  "manifests": [
+   "default.project.json",
+   "rokit.toml"
+  ]
+ },
+ "thearturzh/rterraingenerator": {
+  "repo": "TheArturZh/RTerrainGenerator",
+  "last_commit": "2020-05-14",
+  "lua_files": 11,
+  "license_files": [
+   "LICENSE"
+  ],
+  "binaries": [],
+  "manifests": [
+   "default.project.json"
+  ]
+ },
+ "wblair1/statuseffectmanager": {
+  "repo": "WBlair1/StatusEffectManager",
+  "last_commit": "2026-01-31",
+  "lua_files": 3,
+  "license_files": [
+   "LICENSE"
+  ],
+  "binaries": [],
+  "manifests": []
+ },
+ "aziz8235/roblox-luau-game-framework": {
+  "repo": "aziz8235/roblox-luau-game-framework",
+  "last_commit": "2026-09-18",
+  "lua_files": 0,
+  "license_files": [
+   "LICENSE"
+  ],
+  "binaries": [],
+  "manifests": []
+ },
+ "carlos123344222/robloxgame": {
+  "repo": "carlos123344222/robloxgame",
+  "last_commit": "2026-09-29",
+  "lua_files": 37,
+  "license_files": [],
+  "binaries": [],
+  "manifests": [
+   "default.project.json"
+  ]
+ },
+ "csqrl/sift": {
+  "repo": "csqrl/sift",
+  "last_commit": "2025-03-12",
+  "lua_files": 194,
+  "license_files": [
+   "LICENSE"
+  ],
+  "binaries": [],
+  "manifests": [
+   "aftman.toml",
+   "default.project.json",
+   "foreman.toml",
+   "wally.toml"
+  ]
+ },
+ "dwmk/robloxgames": {
+  "repo": "dwmk/RobloxGames",
+  "last_commit": "2024-08-06",
+  "lua_files": 0,
+  "license_files": [
+   "LICENSE"
+  ],
+  "binaries": [
+   "BanglaBattlegrounds_20240706_01.rbxl",
+   "BrokenPVPgame_20240713_01.rbxl",
+   "DemonHunting_20240717_04.rbxl",
+   "Photon_2.rbxl",
+   "SaveHer.rbxl"
+  ],
+  "manifests": []
+ },
+ "elomala/fighting-game": {
+  "repo": "elomala/Fighting-game",
+  "last_commit": "2024-01-03",
+  "lua_files": 70,
+  "license_files": [],
+  "binaries": [
+   "Fighting game.rbxl"
+  ],
+  "manifests": []
+ },
+ "galenamc/roblox-combatsystem": {
+  "repo": "galenamc/Roblox-CombatSystem",
+  "last_commit": "2020-06-06",
+  "lua_files": 1,
+  "license_files": [],
+  "binaries": [],
+  "manifests": []
+ },
+ "howmanysmall/behaviortree.rbxlua": {
+  "repo": "howmanysmall/behaviortree.rbxlua",
+  "last_commit": "2018-07-10",
+  "lua_files": 15,
+  "license_files": [],
+  "binaries": [],
+  "manifests": []
+ },
+ "idiomic/roblox_sword_fighting_ai": {
+  "repo": "idiomic/Roblox_Sword_Fighting_AI",
+  "last_commit": "2019-12-13",
+  "lua_files": 3,
+  "license_files": [],
+  "binaries": [
+   "AI.rbxl"
+  ],
+  "manifests": []
+ },
+ "kozuidev/pathforge": {
+  "repo": "kozuidev/PathForge",
+  "last_commit": "2025-08-24",
+  "lua_files": 2,
+  "license_files": [],
+  "binaries": [],
+  "manifests": []
+ },
+ "lab2securityprojectsr/inventory-logic-nogoodui": {
+  "repo": "lab2SecurityProjectsR/inventory-logic-NoGoodUi",
+  "last_commit": "2026-09-29",
+  "lua_files": 8,
+  "license_files": [
+   "LICENSE"
+  ],
+  "binaries": [],
+  "manifests": [
+   "default.project.json"
+  ]
+ },
+ "lewuat/roblox-dashplace": {
+  "repo": "lewuat/Roblox-DashPlace",
+  "last_commit": "2026-04-15",
+  "lua_files": 0,
+  "license_files": [
+   "LICENSE"
+  ],
+  "binaries": [
+   "DashPlace.rbxl"
+  ],
+  "manifests": []
+ },
+ "mrchigurh/suphi-packet": {
+  "repo": "mrchigurh/Suphi-Packet",
+  "last_commit": "2025-06-15",
+  "lua_files": 9,
+  "license_files": [],
+  "binaries": [],
+  "manifests": []
+ },
+ "rinme/untitledgame": {
+  "repo": "rinme/UntitledGame",
+  "last_commit": "2026-09-15",
+  "lua_files": 11,
+  "license_files": [],
+  "binaries": [],
+  "manifests": [
+   "default.project.json",
+   "rokit.toml"
+  ]
+ },
+ "seyaidev/behaviortree.rbxlua": {
+  "repo": "seyaidev/behaviortree.rbxlua",
+  "last_commit": "2019-08-05",
+  "lua_files": 17,
+  "license_files": [],
+  "binaries": [],
+  "manifests": []
+ },
+ "shmove/roblox-melee-movement-system": {
+  "repo": "shmove/roblox-melee-movement-system",
+  "last_commit": "2023-08-31",
+  "lua_files": 14,
+  "license_files": [
+   "LICENSE"
+  ],
+  "binaries": [],
+  "manifests": []
+ },
+ "vocksel/sugar": {
+  "repo": "vocksel/Sugar",
+  "last_commit": "2019-09-08",
+  "lua_files": 59,
+  "license_files": [
+   "LICENSE"
+  ],
+  "binaries": [],
+  "manifests": [
+   "default.project.json"
+  ]
+ },
+ "welcomestohell/prvdmwrong": {
+  "repo": "welcomestohell/prvdmwrong",
+  "last_commit": "2025-12-29",
+  "lua_files": 682,
+  "license_files": [
+   "LICENSE.md"
+  ],
+  "binaries": [
+   "dist/bundle.rbxl",
+   "dist/bundle.rbxm",
+   "dist/models/dependencies.rbxm",
+   "dist/models/lifecycles.rbxm",
+   "dist/models/logger.rbxm",
+   "dist/models/providers.rbxm",
+   "dist/models/prvdmwrong.rbxm",
+   "dist/models/rbx-components.rbxm",
+   "dist/models/rbx-lifecycles.rbxm",
+   "dist/models/roots.rbxm",
+   "dist/models/runtime.rbxm",
+   "dist/models/typecheckers.rbxm"
+  ],
+  "manifests": [
+   "dist/pesde/luau/dependencies/pesde.toml",
+   "dist/pesde/luau/lifecycles/pesde.toml",
+   "dist/pesde/luau/logger/pesde.toml",
+   "dist/pesde/luau/providers/pesde.toml",
+   "dist/pesde/luau/prvdmwrong/pesde.toml",
+   "dist/pesde/luau/rbx-components/pesde.toml",
+   "dist/pesde/luau/roots/pesde.toml",
+   "dist/pesde/luau/runtime/pesde.toml",
+   "dist/pesde/luau/typecheckers/pesde.toml",
+   "dist/pesde/lune/dependencies/pesde.toml",
+   "dist/pesde/lune/lifecycles/pesde.toml",
+   "dist/pesde/lune/logger/pesde.toml",
+   "dist/pesde/lune/providers/pesde.toml",
+   "dist/pesde/lune/prvdmwrong/pesde.toml",
+   "dist/pesde/lune/rbx-components/pesde.toml",
+   "dist/pesde/lune/roots/pesde.toml",
+   "dist/pesde/lune/runtime/pesde.toml",
+   "dist/pesde/lune/typecheckers/pesde.toml",
+   "dist/pesde/roblox/dependencies/pesde.toml",
+   "dist/pesde/roblox/lifecycles/pesde.toml",
+   "dist/pesde/roblox/logger/pesde.toml",
+   "dist/pesde/roblox/providers/pesde.toml",
+   "dist/pesde/roblox/prvdmwrong/pesde.toml",
+   "dist/pesde/roblox/rbx-components/pesde.toml",
+   "dist/pesde/roblox/rbx-lifecycles/pesde.toml",
+   "dist/pesde/roblox/roots/pesde.toml",
+   "dist/pesde/roblox/runtime/pesde.toml",
+   "dist/pesde/roblox/typecheckers/pesde.toml",
+   "pesde.toml",
+   "rokit.toml"
+  ]
+ }
+}
